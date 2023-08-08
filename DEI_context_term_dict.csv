@@ -1,0 +1,123 @@
+REGEX Term,Category
+ethnic,ethnicity
+(disab(i|l)| able-bod),(dis)ability
+(marital status|married),marital status
+ bias,bias
+religio,religio
+inclusiv,inclusive
+divers,diverse
+" race( |,|.)",race
+racism,race
+racist,race
+racial,race
+bipoc,race
+people of colo(u)?r,race
+blackface,race
+(black|african american),race
+white,race
+asian,race
+latin(o|a|x),race
+hispanic,ethnicity
+(indigenous|native(s| (america|population|communit|govern|reservation))|american indian|amer(-)?indian|first nations|trib(al|e)|aborigin),race
+(environmental human rights defender|ehrd),advocate
+working (famil|parent|mother|mom|father|dad),familial status
+military status,military status
+veteran,military status
+(service|guard|reserve) member,military status
+(active|military) duty,military status
+minorities,minorit
+minority group,minorit
+lgbt,LGBT
+sexual orientation,LGBT
+gender identit,LGBT
+ gay,LGBT
+lesbian,LGBT
+bisexual,LGBT
+trans(gender|person),LGBT
+queer,LGBT
+asexual,LGBT
+(homo|trans)phobia,LGBT
+gender( |-)non( |-)?conforming,LGBT
+non(-)?binary,LGBT
+pride month,LGBT
+wom(e|a)n,gender-M/F
+female,gender-M/F
+ male ,gender-M/F
+ men ,gender-M/F
+gender,gender-M/F
+based on sex,gender-M/F
+pregnant,gender-M/F
+on the basis of sex,gender-M/F
+maternity leave,gender-M/F
+sexist,gender-M/F
+sex discrimination,gender-M/F
+misogyn,gender-M/F
+age discrimin,age
+age bias,age
+ageism,age
+average age,age
+ old(er)? ,age
+youth,youth
+young,youth
+next generation,youth
+nationalit,nationality
+foreign nationals,nationality
+under(-)?represented,underrepresented
+historically marginaliz,historically marginalized
+disadvantaged,disadvantaged
+under( |-)?(serve|invest),disadvantaged
+migrant,migrant
+foreigner,foreign
+ visa ,visa
+citizen,citizen
+foreign worker,foreign
+entry(-| )level,education/skill level
+education level,education/skill level
+(college|undergraduate|graduate) degree,education/skill level
+high school diploma,education/skill level
+(low|un|semi|high)(-|ly | |)skill,education/skill level
+economic status,economic status
+economic class,economic status
+low(-| )income,economic status
+high(-| )income,economic status
+impoverish,economic status
+poverty,economic status
+middle(-| )class,economic status
+working(-| )class,economic status
+criminal histor,criminal history
+ felon,criminal history
+(convict(s)? |formerly convicted|convicted formerly),criminal history
+ urban,location
+rural,location
+h-1b,visa
+political opinion,political opinion
+(a liberal|liberals|anti( |-)?liberal),political opinion
+(a conservative|conservatives|anti( |-)?conservative),political opinion
+(a democrat|democrats),political opinion
+(a republican|republicans|anti( |-)?republican),political opinion
+(a communist|communists|anti( |-)?communist),political opinion
+(a socialist|socialists|anti( |-)?socialist),political opinion
+(a capitalist|capitalists|anti( |-)?capitalist),political opinion
+national (extraction|origin),nationality
+(cultural|social) (background|origin),culture
+ elder,age
+previously excluded,underrepresented
+( mom(s)? | dad(s)? | father| mother),parental status
+care(giver|taker),caregiver
+(parental|maternal|paternal),parental status
+same( |-)?sex,LGBT
+different( |-)?sex,LGBT
+homosexual,LGBT
+heterosexual,LGBT
+spouse,marital status
+domestic partner,marital status
+cisgender,LGBT
+( hiv | aids | hiv/aids),LGBT
+mmiw,race
+demographic,demographic
+white(-| )collar,education/skill level
+blue(-| )collar,education/skill level
+special needs,(dis)ability
+protected group,protected group
+(formerly incarcerated|incarcerated formerly),criminal history
+neuro((-| )?diverg|(-| )?divers),neurodiversity

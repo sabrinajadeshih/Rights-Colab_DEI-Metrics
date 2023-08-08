@@ -1,0 +1,588 @@
+Article Title,Article Excerpt,URL Link,ANY_PRACTICE_AND_OUTCOME,PRACTICE_TERMS_FOUND,OUTCOME_TERMS_FOUND,DEI-CONTEXT_TERMS_FOUND,MODIFIER_TERMS_FOUND,Date,Publication,total_text_lower,ANY_RRP_TOPIC,ANY_WVP_TOPIC,ANY_DEISG_TOPIC,ANY_MBOD_TOPIC,ANY_WD_TOPIC,ANY_PE_TOPIC,ANY_SC_TOPIC,ANY_BS_TOPIC,ANY_CI_TOPIC,ANY_WSP_TOPIC,ANY_CA_TOPIC,ANY_PA_TOPIC,ANY_GO_TOPIC,ANY_GP_TOPIC,ANY_PRACTICE_TERM,ANY_OUTCOME_TERM,ANY_DEI-CONTEXT_TERM,policy-fair dismissal_PRACTICE_Worker-Voice/Protection,compensation-(un)fair_PRACTICE_Worker-Security/Precarity,due diligence_PRACTICE_General-Practice,impacts/externalities-environmental_OUTCOME_Community-Action,life insurance_PRACTICE_Benefits/Services,controversy_OUTCOME_DEI-Strategy/Governance,hate speech accountability-advertising_PRACTICE_Public-Advocacy,disability coverage_PRACTICE_Benefits/Services,recruitment fee_PRACTICE_General-Practice,number of employee grievances resolved_OUTCOME_Worker-Voice/Protection,inclusive culture_OUTCOME_Worker-Voice/Protection,discrimination_OUTCOME_DEI-Strategy/Governance,absenteeism rate_OUTCOME_Recruitment/Retention/Promotion-Rates,front pay_OUTCOME_General-Outcome,quit/resign_OUTCOME_Recruitment/Retention/Promotion-Rates,policy-working hour_PRACTICE_Worker-Voice/Protection,worker union_PRACTICE_Worker-Voice/Protection,due diligence-risk identification/assessment process_PRACTICE_DEI-Strategy/Governance,acknowledgement-environmental justice_PRACTICE_Public-Advocacy,new hires diversity_OUTCOME_Recruitment/Retention/Promotion-Rates,court-ordered relief_OUTCOME_DEI-Strategy/Governance,policy-decent jobs_PRACTICE_Worker-Voice/Protection,report employee policy_PRACTICE_Worker-Voice/Protection,emergency back-up child/elder care services_PRACTICE_Benefits/Services,track employee engagement/satisfaction_PRACTICE_Worker-Voice/Protection,employer affinity program/group_PRACTICE_Workforce-Development,dress code_PRACTICE_Worker-Voice/Protection,programs/initiatives/policies-talent attract_PRACTICE_Recruitment/Retention/Promotion-Rates,community development_PRACTICE_Community-Action,background check_PRACTICE_Recruitment/Retention/Promotion-Rates,access to secure employment_OUTCOME_Worker-Security/Precarity,change in share value_OUTCOME_General-Outcome,report percent change-pay equity_PRACTICE_Pay-Equity,offshoring_PRACTICE_General-Practice,divest-customer_OUTCOME_Customer-Inclusiveness,employee feedback system_PRACTICE_Worker-Voice/Protection,track DEI goals-internal_PRACTICE_DEI-Strategy/Governance,track DEI performance-internal_PRACTICE_DEI-Strategy/Governance,client support and feedback system_PRACTICE_Customer-Inclusiveness,outsource_PRACTICE_General-Practice,transition in a disrupted industry_PRACTICE_General-Practice,written/formal contracts_PRACTICE_Worker-Security/Precarity,non-disclosure agreements_PRACTICE_Worker-Voice/Protection,harassment-local community_OUTCOME_Community-Action,composition-leadership_OUTCOME_Management/Board/Owner-Demographics,strike/walk-out-employee_OUTCOME_DEI-Strategy/Governance,misconduct_OUTCOME_DEI-Strategy/Governance,reject applicant_PRACTICE_Recruitment/Retention/Promotion-Rates,DEI roles-internal_PRACTICE_DEI-Strategy/Governance,highest paid ratio of pay_OUTCOME_Pay-Equity,stakeholder engagement_PRACTICE_Community-Action,line manager_PRACTICE_Worker-Voice/Protection,policy-local sourcing_PRACTICE_Supply-Chain,percent change-promotions_OUTCOME_Recruitment/Retention/Promotion-Rates,access to social security_PRACTICE_Worker-Voice/Protection,programs/initiatives/policy-work-life balance_PRACTICE_Benefits/Services,arbitration_PRACTICE_General-Practice,protest-local community_OUTCOME_Community-Action,wage dispute_OUTCOME_Pay-Equity,programs/initiatives-stakeholder engagement_PRACTICE_Community-Action,hire goal/quota-employee_PRACTICE_DEI-Strategy/Governance,policy-diverse representation_PRACTICE_Worker-Voice/Protection,disruption/delay-operational/workplace_OUTCOME_General-Outcome,partnership-local community_PRACTICE_Community-Action,to be liable_OUTCOME_General-Outcome,government action_OUTCOME_General-Outcome,retaliation/reprisal_OUTCOME_Worker-Voice/Protection,retirement provision_PRACTICE_Benefits/Services,programs/initiatives/policies-talent retain_PRACTICE_Recruitment/Retention/Promotion-Rates,social supply chain_PRACTICE_Supply-Chain,promotion-employee_PRACTICE_Recruitment/Retention/Promotion-Rates,attrition/turnover_OUTCOME_Recruitment/Retention/Promotion-Rates,internal mobility_OUTCOME_Workforce-Development,career development/performance review_PRACTICE_Workforce-Development,debt bondage_OUTCOME_General-Outcome,inclusive documentation_PRACTICE_Worker-Voice/Protection,combat bias_PRACTICE_General-Practice,policy-fair career advancement_PRACTICE_Worker-Voice/Protection,salary bonus_PRACTICE_General-Practice,forced labor_OUTCOME_General-Outcome,exemption_PRACTICE_General-Practice,community investment_PRACTICE_Community-Action,lawsuit/litigation-local community_OUTCOME_Community-Action,establish DEI goals-internal_PRACTICE_DEI-Strategy/Governance,programs/initiatives/policies-retain_PRACTICE_Recruitment/Retention/Promotion-Rates,new access to product/services_OUTCOME_Customer-Inclusiveness,CEO responsibility_PRACTICE_Public-Advocacy,commitment/pledge_PRACTICE_Public-Advocacy,code of conduct/ethics_PRACTICE_Worker-Voice/Protection,policy-supplier screening_PRACTICE_Supply-Chain,policy-fair hiring/recruiting_PRACTICE_Worker-Voice/Protection,talent identification_OUTCOME_Recruitment/Retention/Promotion-Rates,access to water and sanitation_OUTCOME_Worker-Security/Precarity,talent retention_OUTCOME_Recruitment/Retention/Promotion-Rates,vertical diversity balance_OUTCOME_DEI-Strategy/Governance,trust-customer_OUTCOME_Customer-Inclusiveness,recruitment effectiveness_OUTCOME_Recruitment/Retention/Promotion-Rates,boycott-customer_OUTCOME_Customer-Inclusiveness,marketing/advertising_PRACTICE_Customer-Inclusiveness,soft benefits_PRACTICE_Benefits/Services,restitution/reimbursement_OUTCOME_DEI-Strategy/Governance,internshipship/scholarship program/network_PRACTICE_Workforce-Development,integrated into business strategy_PRACTICE_DEI-Strategy/Governance,impacts/externalities-social justice_OUTCOME_Community-Action,sign diversity pledge_PRACTICE_DEI-Strategy/Governance,penalty_OUTCOME_General-Outcome,access to training/career development_OUTCOME_Workforce-Development,backlash/resistance-employee_OUTCOME_DEI-Strategy/Governance,covered healthcare premium_PRACTICE_Benefits/Services,report policies-stakeholder_PRACTICE_Community-Action,policy-anti-discrimination_PRACTICE_Worker-Voice/Protection,transparency/accountability_PRACTICE_DEI-Strategy/Governance,fines/penalties-environmental justice_OUTCOME_Community-Action,medical benefits/heathcare_PRACTICE_Benefits/Services,internal hire_PRACTICE_Recruitment/Retention/Promotion-Rates,skill shortage/gap_OUTCOME_Recruitment/Retention/Promotion-Rates,talent attraction_OUTCOME_Recruitment/Retention/Promotion-Rates,client savings premium_OUTCOME_Customer-Inclusiveness,gender transition guidelines/policies_PRACTICE_Worker-Voice/Protection,client protection policy_PRACTICE_Customer-Inclusiveness,restriction of movement_PRACTICE_General-Practice,firm-customer information transfer_PRACTICE_Customer-Inclusiveness,client satisfaction ratio_OUTCOME_Customer-Inclusiveness,recruitment rates_OUTCOME_Recruitment/Retention/Promotion-Rates,termination-employee_PRACTICE_Recruitment/Retention/Promotion-Rates,hire goal/quota-local community_PRACTICE_Community-Action,accommodations-accessibility_PRACTICE_Benefits/Services,social license_OUTCOME_Community-Action,ownership by employees_OUTCOME_Management/Board/Owner-Demographics,philanthropy-pro bono_PRACTICE_Community-Action,commitment to protect human rights_PRACTICE_Public-Advocacy,philanthropy-financial_PRACTICE_Community-Action,track composition-leadership membership_PRACTICE_Management/Board/Owner-Demographics,community engagement_PRACTICE_Community-Action,leave-percent of salary covered_PRACTICE_Benefits/Services,unsafe conditions_OUTCOME_Worker-Voice/Protection,equal benefits_PRACTICE_Benefits/Services,living wage_PRACTICE_Worker-Security/Precarity,access to equal opportunities_PRACTICE_Worker-Voice/Protection,Chief Diversity Officer_PRACTICE_DEI-Strategy/Governance,remediation/corrective action process_PRACTICE_Worker-Voice/Protection,employee tenure_OUTCOME_Recruitment/Retention/Promotion-Rates,financial loss_OUTCOME_General-Outcome,corruption_OUTCOME_DEI-Strategy/Governance,senior leadership accountability_PRACTICE_DEI-Strategy/Governance,aging workforce_OUTCOME_General-Outcome,number of employee grievances registered_OUTCOME_Worker-Voice/Protection,fellowship program/network_PRACTICE_Workforce-Development,track employee policy_PRACTICE_Worker-Voice/Protection,training-dei_PRACTICE_Worker-Voice/Protection,on-the-job training_PRACTICE_General-Practice,policy-sexual harassment_PRACTICE_Worker-Voice/Protection,report composition-benefits_PRACTICE_Benefits/Services,products/service design_PRACTICE_Customer-Inclusiveness,raise awareness_PRACTICE_General-Practice,worker committee_PRACTICE_Worker-Voice/Protection,capture diverse customer base_OUTCOME_Customer-Inclusiveness,listening to employees_PRACTICE_Worker-Voice/Protection,report composition-leadership membership_PRACTICE_Management/Board/Owner-Demographics,report composition-pay equity_PRACTICE_Pay-Equity,zero-hour work/contracts_PRACTICE_Worker-Security/Precarity,trust-employee_OUTCOME_DEI-Strategy/Governance,monitor supplier adherence_PRACTICE_Supply-Chain,employee satisfaction_OUTCOME_Worker-Security/Precarity,investigat_OUTCOME_General-Outcome,seizure of assets_OUTCOME_DEI-Strategy/Governance,monetary damages_OUTCOME_DEI-Strategy/Governance,support local businesses_PRACTICE_Community-Action,track policies-stakeholder_PRACTICE_Community-Action,collective bargaining agreement_PRACTICE_Worker-Voice/Protection,report DEI goals-external_PRACTICE_DEI-Strategy/Governance,grievance/complaints mechanism_PRACTICE_Worker-Voice/Protection,compensation-(un)equal_OUTCOME_Pay-Equity,track composition-leadership tenure_PRACTICE_Management/Board/Owner-Demographics,adequate housing_OUTCOME_Worker-Voice/Protection,stock ownership_PRACTICE_Benefits/Services,passport/document retention_PRACTICE_General-Practice,minimum wage_PRACTICE_Worker-Security/Precarity,recognize neurodiversity_PRACTICE_General-Practice,sponsorship program/network_PRACTICE_Workforce-Development,conciliation agreement_OUTCOME_General-Outcome,impacts/externalities-env justice_OUTCOME_Community-Action,track composition-direct workforce_PRACTICE_Recruitment/Retention/Promotion-Rates,labor shortage_OUTCOME_Recruitment/Retention/Promotion-Rates,compensation-(not) timely_PRACTICE_Worker-Security/Precarity,management-PDMD_PRACTICE_Customer-Inclusiveness,employee wage premium_PRACTICE_Worker-Security/Precarity,competitive advantage_OUTCOME_General-Outcome,share price/value_OUTCOME_General-Outcome,child labor_OUTCOME_General-Outcome,profit participation diversity_OUTCOME_Management/Board/Owner-Demographics,hotline-employee_PRACTICE_Worker-Voice/Protection,acknowledgement-BLM_PRACTICE_Public-Advocacy,diversity council/committee-external_PRACTICE_DEI-Strategy/Governance,training-bias/anti-harassment/non-discrimination_PRACTICE_Worker-Voice/Protection,promotion rates_OUTCOME_Recruitment/Retention/Promotion-Rates,temporary work_PRACTICE_Worker-Security/Precarity,develop in intellectual property_PRACTICE_General-Practice,flexible work_PRACTICE_General-Practice,reputation-customer_OUTCOME_Customer-Inclusiveness,go public_OUTCOME_Worker-Voice/Protection,bankruptcy_OUTCOME_General-Outcome,hiring/recruitment-local community_PRACTICE_Community-Action,diversity audit-employee_PRACTICE_DEI-Strategy/Governance,recruitment costs_OUTCOME_Recruitment/Retention/Promotion-Rates,program/initiative/policy-career development_PRACTICE_Workforce-Development,leave-impact on bonus/carry/vesting_PRACTICE_Benefits/Services,benefits uptake_OUTCOME_Benefits/Services,shutdown/stoppage-operational/workplace_OUTCOME_DEI-Strategy/Governance,sanction_OUTCOME_DEI-Strategy/Governance,policy-re-entry_PRACTICE_DEI-Strategy/Governance,reproductive health coverage_PRACTICE_Benefits/Services,conflict/clash-local community_OUTCOME_Community-Action,free prior and informed consent_PRACTICE_Community-Action,backlash/resistance-local community_OUTCOME_Community-Action,DEI department-internal_PRACTICE_DEI-Strategy/Governance,harassment-employee_OUTCOME_Worker-Voice/Protection,whistleblower protection_PRACTICE_Worker-Voice/Protection,public recognition of DEI performance-external_OUTCOME_DEI-Strategy/Governance,scandal_OUTCOME_DEI-Strategy/Governance,policy-worker freedom of association_PRACTICE_Worker-Voice/Protection,branding_PRACTICE_Customer-Inclusiveness,contract labor/subcontracting_PRACTICE_Worker-Security/Precarity,"alleg, accus, publicly expose_OUTCOME_DEI-Strategy/Governance",benefits gap_OUTCOME_Benefits/Services,report employee grievances/feedback_PRACTICE_Worker-Voice/Protection,lost opportunity_OUTCOME_General-Outcome,track composition-pay equity_PRACTICE_Pay-Equity,grievance mechanism review_PRACTICE_Worker-Voice/Protection,composition-direct workforce_PRACTICE_Recruitment/Retention/Promotion-Rates,incentivise equal sharing of caring responsibilities_PRACTICE_Benefits/Services,report DEI performance-internal_PRACTICE_DEI-Strategy/Governance,training-employee-development_PRACTICE_Workforce-Development,divest-local community_OUTCOME_Community-Action,reinforce bias_PRACTICE_General-Practice,policy-anti-prison labor_PRACTICE_General-Practice,alternative/casual/gig work_PRACTICE_Worker-Security/Precarity,overtime_PRACTICE_General-Practice,progams/initiatives/policy-return to the workplace_PRACTICE_Benefits/Services,leave-number of weeks paid/unpaid_PRACTICE_Benefits/Services,settlement_OUTCOME_DEI-Strategy/Governance,employee resource group/council_PRACTICE_Worker-Voice/Protection,supply chain diversification_PRACTICE_Supply-Chain,external hire_PRACTICE_Recruitment/Retention/Promotion-Rates,day care services_PRACTICE_Benefits/Services,withhold release order_OUTCOME_DEI-Strategy/Governance,report wage level breakdown_PRACTICE_Worker-Security/Precarity,social audit_PRACTICE_DEI-Strategy/Governance,product design-customer_PRACTICE_Customer-Inclusiveness,discrimination lawsuit_OUTCOME_DEI-Strategy/Governance,large spending on R&D_PRACTICE_General-Practice,part-time work_PRACTICE_Worker-Security/Precarity,occupational injury_OUTCOME_Worker-Voice/Protection,policy-performance appraisal_PRACTICE_DEI-Strategy/Governance,equity ownership diversity_OUTCOME_Management/Board/Owner-Demographics,restroom facilities_PRACTICE_Worker-Voice/Protection,lawsuit/litigation-customer_OUTCOME_Customer-Inclusiveness,retention rates_OUTCOME_Recruitment/Retention/Promotion-Rates,backlash/resistance - public_OUTCOME_Customer-Inclusiveness,privacy at work_OUTCOME_Worker-Voice/Protection,social dialogue_PRACTICE_Worker-Voice/Protection,track composition-benefits_PRACTICE_Benefits/Services,lawsuit/litigation-employee_OUTCOME_DEI-Strategy/Governance,number of hours worked_PRACTICE_Worker-Security/Precarity,favor internal hire/promotion_PRACTICE_Workforce-Development,inspection_OUTCOME_General-Outcome,hiring/recruitment_PRACTICE_Recruitment/Retention/Promotion-Rates,policy-EEO_PRACTICE_DEI-Strategy/Governance,programs/initiatives/policies-attract_PRACTICE_Recruitment/Retention/Promotion-Rates,policy-employee protection_PRACTICE_Worker-Voice/Protection,violation of environmental regulations_PRACTICE_Community-Action,report composition-leadership tenure_PRACTICE_Management/Board/Owner-Demographics,policy-fair compensation_PRACTICE_Worker-Voice/Protection,philanthropy-education_PRACTICE_Community-Action,programs/initiatives-customer_PRACTICE_Customer-Inclusiveness,reputation-job seekers_OUTCOME_Recruitment/Retention/Promotion-Rates,product development-human capital_PRACTICE_Customer-Inclusiveness,protest-employee_OUTCOME_DEI-Strategy/Governance,gender affirmation/confirmation care_PRACTICE_Benefits/Services,harassment_OUTCOME_DEI-Strategy/Governance,back pay_OUTCOME_General-Outcome,toxic culture_OUTCOME_Worker-Voice/Protection,family-building coverage_PRACTICE_Benefits/Services,tuition assistance_PRACTICE_Workforce-Development,mentorship/apprenticeship program/network_PRACTICE_Workforce-Development,anonymous reporting-employee_PRACTICE_Worker-Voice/Protection,affirmative action_PRACTICE_DEI-Strategy/Governance,family leave_PRACTICE_Benefits/Services,employee engagement mechanism_PRACTICE_Worker-Voice/Protection,statement-social justice_PRACTICE_Public-Advocacy,risk recognition_OUTCOME_General-Outcome,family violence leave_PRACTICE_Benefits/Services,sit-in-employee_OUTCOME_DEI-Strategy/Governance,paid secondary carer leave_PRACTICE_Benefits/Services,sexual harassment/abuse_OUTCOME_DEI-Strategy/Governance,appointment of governance positions_PRACTICE_DEI-Strategy/Governance,permanent employee ratio_PRACTICE_Worker-Security/Precarity,invest in people_PRACTICE_Workforce-Development,policy-worker safety_PRACTICE_Worker-Voice/Protection,young_DEI-CONTEXT_youth,low(-| )income_DEI-CONTEXT_economic status,pregnant_DEI-CONTEXT_gender-M/F,gender_DEI-CONTEXT_gender-M/F,h-1b_DEI-CONTEXT_visa,racist_DEI-CONTEXT_race,pride month_DEI-CONTEXT_LGBT,(marital status|married)_DEI-CONTEXT_marital status,rural_DEI-CONTEXT_location,gender( |-)non( |-)?conforming_DEI-CONTEXT_LGBT,minority group_DEI-CONTEXT_minorit,inclusiv_DEI-CONTEXT_inclusive,minorities_DEI-CONTEXT_minorit,(convict(s)? |formerly convicted|convicted formerly)_DEI-CONTEXT_criminal history,(a communist|communists|anti( |-)?communist)_DEI-CONTEXT_political opinion,demographic_DEI-CONTEXT_demographic,( hiv | aids | hiv/aids)_DEI-CONTEXT_LGBT, men _DEI-CONTEXT_gender-M/F,veteran_DEI-CONTEXT_military status,based on sex_DEI-CONTEXT_gender-M/F, gay_DEI-CONTEXT_LGBT,heterosexual_DEI-CONTEXT_LGBT,lgbt_DEI-CONTEXT_LGBT, urban_DEI-CONTEXT_location,poverty_DEI-CONTEXT_economic status,people of colo(u)?r_DEI-CONTEXT_race,cisgender_DEI-CONTEXT_LGBT,special needs_DEI-CONTEXT_(dis)ability,citizen_DEI-CONTEXT_citizen,foreigner_DEI-CONTEXT_foreign, felon_DEI-CONTEXT_criminal history,nationalit_DEI-CONTEXT_nationality,under(-)?represented_DEI-CONTEXT_underrepresented,(a republican|republicans|anti( |-)?republican)_DEI-CONTEXT_political opinion,domestic partner_DEI-CONTEXT_marital status,working(-| )class_DEI-CONTEXT_economic status,migrant_DEI-CONTEXT_migrant,foreign nationals_DEI-CONTEXT_nationality,average age_DEI-CONTEXT_age,economic status_DEI-CONTEXT_economic status,(cultural|social) (background|origin)_DEI-CONTEXT_culture,(a capitalist|capitalists|anti( |-)?capitalist)_DEI-CONTEXT_political opinion,care(giver|taker)_DEI-CONTEXT_caregiver,(active|military) duty_DEI-CONTEXT_military status,(service|guard|reserve) member_DEI-CONTEXT_military status,high(-| )income_DEI-CONTEXT_economic status,foreign worker_DEI-CONTEXT_foreign,(a democrat|democrats)_DEI-CONTEXT_political opinion,gender identit_DEI-CONTEXT_LGBT,criminal histor_DEI-CONTEXT_criminal history,(parental|maternal|paternal)_DEI-CONTEXT_parental status,previously excluded_DEI-CONTEXT_underrepresented,sexist_DEI-CONTEXT_gender-M/F,homosexual_DEI-CONTEXT_LGBT,divers_DEI-CONTEXT_diverse,(college|undergraduate|graduate) degree_DEI-CONTEXT_education/skill level, elder_DEI-CONTEXT_age,(indigenous|native(s| (america|population|communit|govern|reservation))|american indian|amer(-)?indian|first nations|trib(al|e)|aborigin)_DEI-CONTEXT_race,(a conservative|conservatives|anti( |-)?conservative)_DEI-CONTEXT_political opinion,impoverish_DEI-CONTEXT_economic status,non(-)?binary_DEI-CONTEXT_LGBT,asian_DEI-CONTEXT_race,same( |-)?sex_DEI-CONTEXT_LGBT,blackface_DEI-CONTEXT_race,protected group_DEI-CONTEXT_protected group,sex discrimination_DEI-CONTEXT_gender-M/F,high school diploma_DEI-CONTEXT_education/skill level, old(er)? _DEI-CONTEXT_age,ethnic_DEI-CONTEXT_ethnicity,queer_DEI-CONTEXT_LGBT,(environmental human rights defender|ehrd)_DEI-CONTEXT_advocate,(a socialist|socialists|anti( |-)?socialist)_DEI-CONTEXT_political opinion,on the basis of sex_DEI-CONTEXT_gender-M/F,religio_DEI-CONTEXT_religio,misogyn_DEI-CONTEXT_gender-M/F,political opinion_DEI-CONTEXT_political opinion,white(-| )collar_DEI-CONTEXT_education/skill level,lesbian_DEI-CONTEXT_LGBT, visa _DEI-CONTEXT_visa,asexual_DEI-CONTEXT_LGBT, male _DEI-CONTEXT_gender-M/F,spouse_DEI-CONTEXT_marital status,(low|un|semi|high)(-|ly | |)skill_DEI-CONTEXT_education/skill level,(disab(i|l)| able-bod)_DEI-CONTEXT_(dis)ability,racial_DEI-CONTEXT_race,bipoc_DEI-CONTEXT_race,(black|african american)_DEI-CONTEXT_race,historically marginaliz_DEI-CONTEXT_historically marginalized,disadvantaged_DEI-CONTEXT_disadvantaged,youth_DEI-CONTEXT_youth,next generation_DEI-CONTEXT_youth,blue(-| )collar_DEI-CONTEXT_education/skill level," race( |,|.)_DEI-CONTEXT_race",age bias_DEI-CONTEXT_age,entry(-| )level_DEI-CONTEXT_education/skill level,sexual orientation_DEI-CONTEXT_LGBT,ageism_DEI-CONTEXT_age,white_DEI-CONTEXT_race,education level_DEI-CONTEXT_education/skill level,trans(gender|person)_DEI-CONTEXT_LGBT,maternity leave_DEI-CONTEXT_gender-M/F,(a liberal|liberals|anti( |-)?liberal)_DEI-CONTEXT_political opinion,military status_DEI-CONTEXT_military status,wom(e|a)n_DEI-CONTEXT_gender-M/F,neuro((-| )?diverg|(-| )?divers)_DEI-CONTEXT_neurodiversity,working (famil|parent|mother|mom|father|dad)_DEI-CONTEXT_familial status,age discrimin_DEI-CONTEXT_age,mmiw_DEI-CONTEXT_race,economic class_DEI-CONTEXT_economic status,different( |-)?sex_DEI-CONTEXT_LGBT, bias_DEI-CONTEXT_bias,female_DEI-CONTEXT_gender-M/F,bisexual_DEI-CONTEXT_LGBT,hispanic_DEI-CONTEXT_ethnicity,latin(o|a|x)_DEI-CONTEXT_race,(homo|trans)phobia_DEI-CONTEXT_LGBT,under( |-)?(serve|invest)_DEI-CONTEXT_disadvantaged,national (extraction|origin)_DEI-CONTEXT_nationality,(formerly incarcerated|incarcerated formerly)_DEI-CONTEXT_criminal history,middle(-| )class_DEI-CONTEXT_economic status,( mom(s)? | dad(s)? | father| mother)_DEI-CONTEXT_parental status,racism_DEI-CONTEXT_race,full-time employment_MODIFIER_EmploymentType,part-time employment_MODIFIER_EmploymentType,permanent employment_MODIFIER_EmploymentType,temporary employment_MODIFIER_EmploymentType,zero-hour employment_MODIFIER_EmploymentType,non-guaranteed hours employees_MODIFIER_EmploymentType,human capital_MODIFIER_HumanCapital,invest in people_MODIFIER_HumanCapital,senior management/executive_MODIFIER_CompanyEntity,board of directors/executive board_MODIFIER_CompanyEntity,nonexecutive/supervisory board_MODIFIER_CompanyEntity,C-suite_MODIFIER_CompanyEntity,investment committee/team_MODIFIER_CompanyEntity,stockholder/shareholder_MODIFIER_CompanyEntity,professionals_MODIFIER_CompanyEntity,direct operations workforce_MODIFIER_CompanyEntity,headquarters/office_MODIFIER_GlobalLocation,factory_MODIFIER_GlobalLocation,migrant worker_MODIFIER_GlobalLocation,mobile worker_MODIFIER_GlobalLocation,supply chain_MODIFIER_SupplyChain,value chain_MODIFIER_SupplyChain,confidential_MODIFIER_Qualities,mandatory_MODIFIER_Qualities,regular_MODIFIER_Qualities,third-party_MODIFIER_Qualities,equal_MODIFIER_Qualities,anonymous_MODIFIER_Qualities,formal_MODIFIER_Qualities,written_MODIFIER_Qualities,independent_MODIFIER_Qualities,-conscious/friendly/focused_MODIFIER_Qualities,-balanced/neutral/agnostic_MODIFIER_Qualities,coronavirus_MODIFIER_COVID-19,black lives matter_MODIFIER_BLM,blm-police_MODIFIER_BLM,criminal justice_MODIFIER_BLM,full( |-)?time(.*)(employ|work|labo(u)?r)_MOD,(employ|work|labo(u)?r)(.*)full( |-)?time_MOD,part( |-)?time(.*)(employ|work|labo(u)?r)_MOD,(employ|work|labo(u)?r)(.*)part( |-)?time_MOD,permanent(.*)(employ|work|labo(u)?r)_MOD,(employ|work|labo(u)?r)(.*)permanent_MOD,temporary(.*)(employ|work|labo(u)?r)_MOD,(employ|work|labo(u)?r)(.*)temporary_MOD,zero( |-)?hour(.*)(employ|work|labo(u)?r)_MOD,(employ|work|labo(u)?r)(.*)zero( |-)?hour_MOD,non( |-)?guarantee(.*)(employ|work|labo(u)?r)_MOD,(employ|work|labo(u)?r)(.*)non( |-)?guarantee_MOD,human capital_MOD,invest in people_MOD,invest in a(n)? (person|individual)_MOD,president_MOD, vp _MOD,c-level_MOD,partner( |-)level_MOD,(firm|name|managing|principal) partner_MOD,director_MOD,chair(man|woman|person)_MOD,chair of_MOD,principals_MOD,(senior|top) (leader|manag)_MOD,executive_MOD,board of (director|executive)_MOD,(director|executive) board_MOD,board of (supervisor|non( |-)?executive)_MOD,(supervisory|non( |-)?executive) board_MOD,c-suite_MOD,c-level_MOD.1, ceo _MOD, cto _MOD, cfo _MOD, coo _MOD, cio _MOD,investment (committee|team)_MOD,(share|stock)holder_MOD,associates_MOD,analysts_MOD,professionals_MOD,entrepreneurs in residence_MOD,direct operations (employ|work|labo(u)?r)_MOD,floor(.*)(employ|work|labo(u)?r)_MOD,(employ|work|labo(u)?r)(.*)floor_MOD,headquarters_MOD,office_MOD,factor(ies|y)_MOD,manufactur_MOD,migra(n)?t(.*)(employ|work|labo(u)?r)_MOD,(employ|work|labo(u)?r)(.*)migra(n)?t_MOD,mobile(.*)(employ|work|labo(u)?r)_MOD,(employ|work|labo(u)?r)(.*)mobile_MOD,supply chain_MOD,supplier_MOD,value chain_MOD,confidential_MOD,mandatory_MOD,regular_MOD,third( |-)party_MOD,equal_MOD,anonymous_MOD,formal_MOD,written_MOD,independent_MOD,-conscious_MOD,-friendly_MOD,-focus_MOD,-balance_MOD,-neutral_MOD,agnostic_MOD,coronavirus_MOD, covid_MOD,global pandemic_MOD,black lives matter_MOD,blm_MOD,george floyd_MOD,police (reform|violence)_MOD,defund the police_MOD, acab _MOD,criminal justice_MOD
+How to achieve true inclusivity in the workplace,"Inclusivity should be a top priority for HR, but it can be hard to implement Diversity, Equity and Inclusion (DEI) strategies and turn them into real action to achieve true inclusivity. Keeping track of goals and assessing DEI throughout the year can help you stay on track and find out how inclusive your company really is.
+
+What is true inclusivity?
+True inclusivity means going beyond an on-paper DEI strategy to actively implement inclusivity into your workplace, for people across all points of difference such as ability, race, gender and religion. True inclusivity goes beyond just HR initiatives, too – it needs to be a company-wide culture of openness and belonging for all.
+
+Although it may seem hard to achieve, inclusivity is an important part of DEI that can even help the business. Inclusivity can lead to more innovation and may be more likely to outperform competitors. This is because creating a culture of inclusivity makes all employees feel welcomed. It gives them a sense of belonging, which can not only increase meaningfulness at work but can make them feel more comfortable bringing ideas to the table. 
+
+How to create true inclusivity
+When it comes to promoting equity and inclusion, there are three areas to focus on, says Aubrey Blanche, global head of equitable design and impact at Culture Amp. 
+
+Blanche suggests focusing efforts on creating transparency in talent processes, intentionally prioritizing fairness and promoting access to development and recognition. This may look like: 
+
+Implementing employee recognition programs
+Having formal mentorship and sponsorship programs
+Creating clear career advancement processes, and
+Explicitly sourcing underrepresented talent.
+How to track and assess inclusivity 
+Constantly assessing and keeping track of DEI goals can help you understand what you’re doing well and what still needs to be worked on to create true inclusivity. ...",https://www.hrmorning.com/articles/true-inclusivity-at-work/,1,"track DEI goals-internal (DEI-Strategy/Governance): [(' goal', ' dei ', ' track', 'under(-)?represented'), [7, 10, 10, 15], 1]
+[(' goal', ' dei ', ' track', 'inclusiv'), [7, 10, 10, 15], 1]
+
+training-employee-development (Workforce-Development): [('program', 'career', 'advanc', 'under(-)?represented'), [10, 10, 10, 15], 1]
+[('program', 'career', 'advanc', 'inclusiv'), [10, 10, 10, 15], 1]
+
+program/initiative/policy-career development (Workforce-Development): [('program', 'career', 'advanc', 'under(-)?represented'), [10, 10, 10, 15], 1]
+[('program', 'career', 'advanc', 'inclusiv'), [10, 10, 10, 15], 1]
+
+mentorship/apprenticeship program/network (Workforce-Development): [('program', ' mentor', 'under(-)?represented'), [7, 15], 1]
+[('mentor', 'advanc', 'inclusiv'), [7, 15], 1]
+[('mentor', 'advanc', 'under(-)?represented'), [7, 15], 1]
+
+sponsorship program/network (Workforce-Development): [('sponsorship', 'advanc', 'inclusiv'), [7, 15], 1]
+[('program', 'sponsor', 'under(-)?represented'), [7, 15], 1]
+[('sponsorship', 'advanc', 'under(-)?represented'), [7, 15], 1]
+
+","inclusive culture (Worker-Voice/Protection): [('welcom(e|ing)', 'culture', 'inclusiv'), [7, 15], 1]
+
+","inclusiv (inclusive)  [track DEI goals-internal], 
+under(-)?represented (underrepresented)  [track DEI goals-internal], 
+inclusiv (inclusive)  [inclusive culture], 
+inclusiv (inclusive)  [training-employee-development], 
+under(-)?represented (underrepresented)  [training-employee-development], 
+inclusiv (inclusive)  [program/initiative/policy-career development], 
+under(-)?represented (underrepresented)  [program/initiative/policy-career development], 
+inclusiv (inclusive)  [mentorship/apprenticeship program/network], 
+under(-)?represented (underrepresented)  [mentorship/apprenticeship program/network], 
+inclusiv (inclusive)  [sponsorship program/network], 
+under(-)?represented (underrepresented)  [sponsorship program/network], 
+","formal (Qualities)
+",12/16/2022,HR Morning,"how to achieve true inclusivity in the workplace inclusivity should be a top priority for hr, but it can be hard to implement diversity, equity and inclusion (dei) strategies and turn them into real action to achieve true inclusivity. keeping track of goals and assessing dei throughout the year can help you stay on track and find out how inclusive your company really is.
+
+what is true inclusivity?
+true inclusivity means going beyond an on-paper dei strategy to actively implement inclusivity into your workplace, for people across all points of difference such as ability, race, gender and religion. true inclusivity goes beyond just hr initiatives, too – it needs to be a company-wide culture of openness and belonging for all.
+
+although it may seem hard to achieve, inclusivity is an important part of dei that can even help the business. inclusivity can lead to more innovation and may be more likely to outperform competitors. this is because creating a culture of inclusivity makes all employees feel welcomed. it gives them a sense of belonging, which can not only increase meaningfulness at work but can make them feel more comfortable bringing ideas to the table. 
+
+how to create true inclusivity
+when it comes to promoting equity and inclusion, there are three areas to focus on, says aubrey blanche, global head of equitable design and impact at culture amp. 
+
+blanche suggests focusing efforts on creating transparency in talent processes, intentionally prioritizing fairness and promoting access to development and recognition. this may look like: 
+
+implementing employee recognition programs
+having formal mentorship and sponsorship programs
+creating clear career advancement processes, and
+explicitly sourcing underrepresented talent.
+how to track and assess inclusivity 
+constantly assessing and keeping track of dei goals can help you understand what you’re doing well and what still needs to be worked on to create true inclusivity. ...",0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Don't leave fat people out of your DEI goals,"... Japan
+So if workplace weight loss programs don’t actually improve employee health — what is it they are attempting to do?
+
+As the writer and fat activist Aubrey Gordon put it when discussing workplace wellness programs on a recent episode of her podcast ""Maintenance Phase"": ""One of the major narratives that drives our understanding of and response to fat people in the world: Fat people are most frequently discussed as a cost."" And it’s true. Many of the underlying arguments for these kinds of discriminatory programs are in the name of saving health care costs. But that argument starts to fall apart quickly when you consider that fat is not a reliable indicator of health. According to a UCLA study published in 2016, misusing BMI as a measure of health incorrectly labels millions of fat Americans as unhealthy, even though by other measures like blood pressure and cholesterol, they are not. And yet, workplace wellness programs that focus on weight loss and other fatphobic-related measures like BMI and fat percentage persist. 
+
+There’s not much evidence to suggest these workplace weight loss programs even reduce costs. The same ""Maintenance Phase"" episode pointed out a 2013 study, which found that ""savings to employers may come from cost shifting, with the most vulnerable employees — those from lower socioeconomic strata with the most health risks — probably bearing greater costs that in effect subsidize their healthier colleagues."" Another study in 2021 makes the point that ""if the goal is to save money by reducing healthcare costs and absenteeism or to improve chronic physical health conditions, there is little evidence that this type of program delivers the desired results."" And one more for good measure: “There is no evidence that these programs work, but ample evidence exists that they are a morale-reducing and expensive distraction from the business of business,” according to medical experts in a 2015 article for The American Journal of Managed Care. To help make this the rule rather than the exception, employers should be asking themselves: Are larger employees welcome and safe in their workplace? They should remind staff to never comment on people’s bodies, as you would on race, religion, gender or sexuality. As they might accommodate someone with an injury or disability, workplaces should ensure that office space and travel needs accommodate plus-size employees. Office gifts and swag should be kept body neutral or offered in extended sizes for folks who need it. Hiring practices should be updated to recognize and combat anti-fat bias like all other implicit biases. Health care plans should offer a wide range of providers so fat folks can see the best medical professionals for them. Weight discrimination and anti-fat bias could be included in workplace harassment training. And any workplace wellness program that specifically incentivizes weight loss should be acknowledged as harmful and ended immediately. 
+...",https://www.nbcnews.com/think/opinion/leave-2023-weight-loss-talk-out-of-work-fat-employers-dei-rcna64069,1,"training-bias/anti-harassment/non-discrimination (Worker-Voice/Protection): [(' train', '(anti|non)?( |-)bias', ' bias'), [7, 15], -1]
+
+combat bias (General-Practice): [('combat', ' bias', ' bias'), [6, 15], 0]
+
+","harassment (DEI-Strategy/Governance): [('harass', 'harass', ' bias'), [7, 15], -1]
+
+discrimination (DEI-Strategy/Governance): [(' discriminat', ' discriminat', ' bias'), [7, 15], -1]
+
+harassment-employee (Worker-Voice/Protection): [('harass', 'work(er|force|( )?place)', ' bias'), [10, 15], -1]
+
+inclusive culture (Worker-Voice/Protection): [('work( )?place', 'work', '(are|am|be|feel|felt) (value|belong|seen|heard|includ|understood)', ' bias'), [10, 10, 10, 15], -1]
+[('(are|am|be|feel|felt) (value|belong|seen|heard|includ|understood)', 'work( conditions| environment|( )?place)', ' bias'), [7, 15], -1]
+
+unsafe conditions (Worker-Voice/Protection): [('work( )?place', 'work', 'harass', ' bias'), [10, 10, 10, 15], -1]
+
+occupational injury (Worker-Voice/Protection): [('injur(e|ies|y)', 'work(er|force|( )?place)', ' race( |,|.)'), [7, 15], 0]
+[('injur(e|ies|y)', 'work(er|force|( )?place)', '(disab(i|l)| able-bod)'), [7, 15], 0]
+[('injur(e|ies|y)', 'work(er|force|( )?place)', 'religio'), [7, 15], 0]
+[('injur(e|ies|y)', 'work(er|force|( )?place)', 'gender'), [7, 15], 0]
+
+"," bias (bias)  [harassment], 
+ bias (bias)  [discrimination], 
+ bias (bias)  [harassment-employee], 
+ bias (bias)  [inclusive culture], 
+ bias (bias)  [unsafe conditions], 
+gender (gender-M/F)  [occupational injury], 
+religio (religio)  [occupational injury], 
+ race( |,|.) (race)  [occupational injury], 
+(disab(i|l)| able-bod) ((dis)ability)  [occupational injury], 
+ bias (bias)  [training-bias/anti-harassment/non-discrimination], 
+ bias (bias)  [combat bias], 
+","professionals (CompanyEntity)
+headquarters/office (GlobalLocation)
+",1/3/2023,NBC News,"don't leave fat people out of your dei goals ... japan
+so if workplace weight loss programs don’t actually improve employee health — what is it they are attempting to do?
+
+as the writer and fat activist aubrey gordon put it when discussing workplace wellness programs on a recent episode of her podcast ""maintenance phase"": ""one of the major narratives that drives our understanding of and response to fat people in the world: fat people are most frequently discussed as a cost."" and it’s true. many of the underlying arguments for these kinds of discriminatory programs are in the name of saving health care costs. but that argument starts to fall apart quickly when you consider that fat is not a reliable indicator of health. according to a ucla study published in 2016, misusing bmi as a measure of health incorrectly labels millions of fat americans as unhealthy, even though by other measures like blood pressure and cholesterol, they are not. and yet, workplace wellness programs that focus on weight loss and other fatphobic-related measures like bmi and fat percentage persist. 
+
+there’s not much evidence to suggest these workplace weight loss programs even reduce costs. the same ""maintenance phase"" episode pointed out a 2013 study, which found that ""savings to employers may come from cost shifting, with the most vulnerable employees — those from lower socioeconomic strata with the most health risks — probably bearing greater costs that in effect subsidize their healthier colleagues."" another study in 2021 makes the point that ""if the goal is to save money by reducing healthcare costs and absenteeism or to improve chronic physical health conditions, there is little evidence that this type of program delivers the desired results."" and one more for good measure: “there is no evidence that these programs work, but ample evidence exists that they are a morale-reducing and expensive distraction from the business of business,” according to medical experts in a 2015 article for the american journal of managed care. to help make this the rule rather than the exception, employers should be asking themselves: are larger employees welcome and safe in their workplace? they should remind staff to never comment on people’s bodies, as you would on race, religion, gender or sexuality. as they might accommodate someone with an injury or disability, workplaces should ensure that office space and travel needs accommodate plus-size employees. office gifts and swag should be kept body neutral or offered in extended sizes for folks who need it. hiring practices should be updated to recognize and combat anti-fat bias like all other implicit biases. health care plans should offer a wide range of providers so fat folks can see the best medical professionals for them. weight discrimination and anti-fat bias could be included in workplace harassment training. and any workplace wellness program that specifically incentivizes weight loss should be acknowledged as harmful and ended immediately. 
+...",0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Twitter’s Layoffs Allegedly Discriminated Against Women,"Layoffs Challenged Based on Gender
+
+Soon after Elon Musk bought Twitter, the company laid off about 3,700 employees—roughly half its workforce—and hundreds more then resigned. The new lawsuit said that Twitter laid off 57 percent of its female employees, compared with 47 percent of men. The gender disparity was greater for engineering roles, where 63 percent of women lost their jobs, compared to 48 percent of men, according to the lawsuit.
+
+""It's not a huge surprise, unfortunately, that women were hit so hard by these layoffs when Elon Musk was overseeing these incredibly ad hoc layoffs just in a matter of days,"" said Shannon Liss-Riordan, the plaintiffs' lawyer, who is in Boston.
+
+Twitter has denied wrongdoing in a lawsuit involving the alleged failure to provide advance notice and hasn't responded to other complaints.
+
+(The Guardian)
+
+Other Complaints
+
+Other complaints against Twitter claim it backed out of promises to allow remote work and provide consistent severance benefits after Musk bought the company, as well as complaints related to alleged disability- and gender-based discrimination and another lawsuit on behalf of Twitter contractors who were laid off. At least one employee claimed that Twitter did not provide enough notice of the layoffs, allegedly violating federal and California laws, and did not offer additional pay in lieu of notice. Three claims also have been filed with the National Labor Relations Board on behalf of former employees.
+
+Twitter, which recently laid off much of its communications department, did not immediately respond to a request for comment on the lawsuits.
+
+(CNN)
+
+Layoffs Snowball
+
+Twitter isn't the only company that has laid off workers. The technology sector has been particularly hard hit, with thousands laid off, including from Meta and Stripe. Sales and recruiting jobs have sustained some of the deepest cuts. In addition, layoffs have spread beyond technology, such as to the Walt Disney Co.
+
+(SHRM Online and Fast Company)
+
+Layoffs Are Harming DE&I Efforts
+
+Recent layoffs, particularly in the tech sector, have eroded diversity, equity and inclusion (DE&I) efforts nationwide. The tech industry already is one of the least diverse. In 2021, just 4.4 percent of employees at Google were Black and 6.4 percent were Latino, according to the company's diversity report. At Meta, people with disabilities represented about 6 percent of the company's workforce, despite accounting for 19 percent of the U.S. labor force.
+
+(SHRM Online)
+
+How to Conduct Layoffs the Right Way
+
+In addition to abiding by employment laws regarding layoffs, communication and accurate information are two of the most essential elements to conducting layoffs well. It's important to ensure everyone is aware of what's happening and what their options are.
+
+""Folks impacted by job loss have so many questions, are often fraught with fear and trepidation of what's next, and they need and deserve support,"" said Barbie Winterbottom, CHRO, founder and CEO of the Business of HR in Tampa, Fla. ""At the same time, HR teams can be overwhelmed with phone calls and e-mails from hundreds or thousands of employees while trying to process required documents and manage required steps in systems. It can make timely communication tough.""
+
+(SHRM Online)",https://www.shrm.org/resourcesandtools/legal-and-compliance/employment-law/pages/twitter-layoffs-allegedly-discriminated-against-women.aspx,1,"composition-direct workforce (Recruitment/Retention/Promotion-Rates): [('percent', 'work(er|force)', 'divers'), [7, 15], 1]
+[('percent', 'employee', 'gender'), [7, 15], -1]
+[('percent', 'employee', 'gender'), [7, 15], 0]
+[('percent', 'work(er|force)', '(disab(i|l)| able-bod)'), [7, 15], 1]
+[('percent', 'employee', 'divers'), [7, 15], 1]
+[('percent', 'employee', '(black|african american)'), [7, 15], 1]
+[('percent', 'employee', 'latin(o|a|x)'), [7, 15], 1]
+[('percent', 'employee', 'female'), [7, 15], -1]
+
+","discrimination lawsuit (DEI-Strategy/Governance): [('lawsuit', 'discriminat', 'gender'), [5, 15], -1]
+[('lawsuit', 'discriminat', '(disab(i|l)| able-bod)'), [5, 15], -1]
+
+lawsuit/litigation-employee (DEI-Strategy/Governance): [('lawsuit', '(ex)?( |-)?employ(er|ee)', 'gender'), [10, 15], -1]
+[('lawsuit', 'contractor', '(disab(i|l)| able-bod)'), [10, 15], -1]
+[('lawsuit', 'work(er|force|place)', 'female'), [10, 15], -1]
+[('lawsuit', 'contractor', 'gender'), [10, 15], -1]
+[('lawsuit', '(ex)?( |-)?employ(er|ee)', 'female'), [10, 15], -1]
+
+discrimination (DEI-Strategy/Governance): [(' discriminat', ' discriminat', 'gender'), [7, 15], -1]
+[(' discriminat', ' discriminat', '(disab(i|l)| able-bod)'), [7, 15], -1]
+[(' discriminat', ' discriminat', 'wom(e|a)n'), [7, 15], -1]
+
+alleg, accus, publicly expose (DEI-Strategy/Governance): [('alleg', 'alleg', '(disab(i|l)| able-bod)'), [7, 15], -1]
+[('alleg', 'alleg', 'gender'), [7, 15], -1]
+[('alleg', 'alleg', 'wom(e|a)n'), [7, 15], -1]
+
+quit/resign (Recruitment/Retention/Promotion-Rates): [('resign', 'work(er|force)', 'female'), [5, 15], -1]
+
+","gender (gender-M/F)  [discrimination lawsuit], 
+(disab(i|l)| able-bod) ((dis)ability)  [discrimination lawsuit], 
+female (gender-M/F)  [lawsuit/litigation-employee], 
+gender (gender-M/F)  [lawsuit/litigation-employee], 
+(disab(i|l)| able-bod) ((dis)ability)  [lawsuit/litigation-employee], 
+gender (gender-M/F)  [discrimination], 
+wom(e|a)n (gender-M/F)  [discrimination], 
+(disab(i|l)| able-bod) ((dis)ability)  [discrimination], 
+gender (gender-M/F)  [alleg, accus, publicly expose], 
+wom(e|a)n (gender-M/F)  [alleg, accus, publicly expose], 
+(disab(i|l)| able-bod) ((dis)ability)  [alleg, accus, publicly expose], 
+(disab(i|l)| able-bod) ((dis)ability)  [composition-direct workforce], 
+gender (gender-M/F)  [composition-direct workforce], 
+(black|african american) (race)  [composition-direct workforce], 
+female (gender-M/F)  [composition-direct workforce], 
+latin(o|a|x) (race)  [composition-direct workforce], 
+divers (diverse)  [composition-direct workforce], 
+female (gender-M/F)  [quit/resign], 
+",,12/12/2022,SHRM Online,"twitter’s layoffs allegedly discriminated against women layoffs challenged based on gender
+
+soon after elon musk bought twitter, the company laid off about 3,700 employees—roughly half its workforce—and hundreds more then resigned. the new lawsuit said that twitter laid off 57 percent of its female employees, compared with 47 percent of men. the gender disparity was greater for engineering roles, where 63 percent of women lost their jobs, compared to 48 percent of men, according to the lawsuit.
+
+""it's not a huge surprise, unfortunately, that women were hit so hard by these layoffs when elon musk was overseeing these incredibly ad hoc layoffs just in a matter of days,"" said shannon liss-riordan, the plaintiffs' lawyer, who is in boston.
+
+twitter has denied wrongdoing in a lawsuit involving the alleged failure to provide advance notice and hasn't responded to other complaints.
+
+(the guardian)
+
+other complaints
+
+other complaints against twitter claim it backed out of promises to allow remote work and provide consistent severance benefits after musk bought the company, as well as complaints related to alleged disability- and gender-based discrimination and another lawsuit on behalf of twitter contractors who were laid off. at least one employee claimed that twitter did not provide enough notice of the layoffs, allegedly violating federal and california laws, and did not offer additional pay in lieu of notice. three claims also have been filed with the national labor relations board on behalf of former employees.
+
+twitter, which recently laid off much of its communications department, did not immediately respond to a request for comment on the lawsuits.
+
+(cnn)
+
+layoffs snowball
+
+twitter isn't the only company that has laid off workers. the technology sector has been particularly hard hit, with thousands laid off, including from meta and stripe. sales and recruiting jobs have sustained some of the deepest cuts. in addition, layoffs have spread beyond technology, such as to the walt disney co.
+
+(shrm online and fast company)
+
+layoffs are harming de&i efforts
+
+recent layoffs, particularly in the tech sector, have eroded diversity, equity and inclusion (de&i) efforts nationwide. the tech industry already is one of the least diverse. in 2021, just 4.4 percent of employees at google were black and 6.4 percent were latino, according to the company's diversity report. at meta, people with disabilities represented about 6 percent of the company's workforce, despite accounting for 19 percent of the u.s. labor force.
+
+(shrm online)
+
+how to conduct layoffs the right way
+
+in addition to abiding by employment laws regarding layoffs, communication and accurate information are two of the most essential elements to conducting layoffs well. it's important to ensure everyone is aware of what's happening and what their options are.
+
+""folks impacted by job loss have so many questions, are often fraught with fear and trepidation of what's next, and they need and deserve support,"" said barbie winterbottom, chro, founder and ceo of the business of hr in tampa, fla. ""at the same time, hr teams can be overwhelmed with phone calls and e-mails from hundreds or thousands of employees while trying to process required documents and manage required steps in systems. it can make timely communication tough.""
+
+(shrm online)",1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forty-Three Percent Say 40-Plus Is Old: Discrimination In The Workplace,"Diversity, equity and inclusion, known as DEI, is a popular yet sensitive topic in the workforce today. Leadership and HR that recognize this are finding ways to ensure employees from all races, ethnicities, abilities, sexual orientations, religions, etc., are represented. Sometimes included, but often left out, is age.
+
+Age shows no color, race, religion, sex, etc. It just is. People get older, and as they do, workplace biases may become evident. It’s important to be aware of this issue. A 2022 study by LiveCareer, Older People & the Workplace, revealed some intriguing findings regarding age-related stereotypes and discrimination. More than 1,000 workers were surveyed to “investigate their opinions about older people in the workplace.”
+
+Eight in ten respondents claimed age stereotypes were still alive in the workplace.
+What is considered old? Forty-three percent of those surveyed said 40-plus is old. Twenty-six percent said 50-plus is old. And 21% said 60-plus is old. So, if you are 50, with probably 15 or more years until retirement, 69% of the people you work with think you are old. Here are some more findings from LiveCareer’s study to get you thinking about how your organization treats aging employees:
+
+· 74% of the respondents aged 50-plus said they had been fired because of their age.
+
+
+· 86% aged 50-plus felt that most job postings were addressed to people younger than them.
+
+· 72% of respondents claimed that older employees were a target for workplace bullying. · 77% of the respondents said: I haven’t been hired for a job because of my age.
+
+· 69% said: I’m afraid to lose my job because of my age.
+
+If over 50 is old, then leadership is … old. According to Zippia, there are over 38,700 CEOs currently employed in the U.S., and their average age is 52 years old. If you look at the Fortune 500, the average age of a CEO is 57. Several companies on the Fortune list are run by CEOs ranging from 71 to 91! Consider the age of the most powerful executives in the United States. President Biden was 78 when he became president. Donald Trump was 70. Barak Obama seems like a baby considering he entered the Oval Office when he was just 47. The overall average age of a United States president entering office is 56 (almost 57).
+...",https://www.forbes.com/sites/shephyken/2022/10/30/forty-three-percent-say-40-plus-is-old-discrimination-in-the-workplace/?sh=62b038679b34,1,"composition-direct workforce (Recruitment/Retention/Promotion-Rates): [('\\%', 'employee', ' old(er)? '), [7, 15], 0]
+[('\\%', 'employee', 'young'), [7, 15], 0]
+
+","discrimination (DEI-Strategy/Governance): [(' discriminat', ' discriminat', 'divers'), [7, 15], 1]
+[(' discriminat', ' discriminat', ' old(er)? '), [7, 15], -1]
+
+harassment-employee (Worker-Voice/Protection): [('bull(ie|y)', 'work(er|force|( )?place)', ' old(er)? '), [10, 15], 0]
+[('bull(ie|y)', 'employee', ' old(er)? '), [10, 15], 0]
+[('bull(ie|y)', 'employee', 'young'), [10, 15], 0]
+
+aging workforce (General-Outcome): [(' old(er|est)? ', 'work(er|force|( )?place)', ' old(er)? '), [7, 15], -1]
+[(' old(er|est)? ', 'employee', ' old(er)? '), [7, 15], 0]
+[(' old(er|est)? ', 'work(er|force|( )?place)', ' old(er)? '), [7, 15], 0]
+[(' old(er|est)? ', 'work(er|force|( )?place)', 'young'), [7, 15], 0]
+[(' old(er|est)? ', 'employee', 'young'), [7, 15], 0]
+
+investigat (General-Outcome): [('investigat', 'investigat', ' old(er)? '), [2, 15], -1]
+
+"," old(er)?  (age)  [discrimination], 
+divers (diverse)  [discrimination], 
+young (youth)  [composition-direct workforce], 
+ old(er)?  (age)  [composition-direct workforce], 
+young (youth)  [harassment-employee], 
+ old(er)?  (age)  [harassment-employee], 
+young (youth)  [aging workforce], 
+ old(er)?  (age)  [aging workforce], 
+ old(er)?  (age)  [investigat], 
+","senior management/executive (CompanyEntity)
+headquarters/office (GlobalLocation)
+",10/30/2022,Forbes,"forty-three percent say 40-plus is old: discrimination in the workplace diversity, equity and inclusion, known as dei, is a popular yet sensitive topic in the workforce today. leadership and hr that recognize this are finding ways to ensure employees from all races, ethnicities, abilities, sexual orientations, religions, etc., are represented. sometimes included, but often left out, is age.
+
+age shows no color, race, religion, sex, etc. it just is. people get older, and as they do, workplace biases may become evident. it’s important to be aware of this issue. a 2022 study by livecareer, older people & the workplace, revealed some intriguing findings regarding age-related stereotypes and discrimination. more than 1,000 workers were surveyed to “investigate their opinions about older people in the workplace.”
+
+eight in ten respondents claimed age stereotypes were still alive in the workplace.
+what is considered old? forty-three percent of those surveyed said 40-plus is old. twenty-six percent said 50-plus is old. and 21% said 60-plus is old. so, if you are 50, with probably 15 or more years until retirement, 69% of the people you work with think you are old. here are some more findings from livecareer’s study to get you thinking about how your organization treats aging employees:
+
+· 74% of the respondents aged 50-plus said they had been fired because of their age.
+
+
+· 86% aged 50-plus felt that most job postings were addressed to people younger than them.
+
+· 72% of respondents claimed that older employees were a target for workplace bullying. · 77% of the respondents said: i haven’t been hired for a job because of my age.
+
+· 69% said: i’m afraid to lose my job because of my age.
+
+if over 50 is old, then leadership is … old. according to zippia, there are over 38,700 ceos currently employed in the u.s., and their average age is 52 years old. if you look at the fortune 500, the average age of a ceo is 57. several companies on the fortune list are run by ceos ranging from 71 to 91! consider the age of the most powerful executives in the united states. president biden was 78 when he became president. donald trump was 70. barak obama seems like a baby considering he entered the oval office when he was just 47. the overall average age of a united states president entering office is 56 (almost 57).
+...",1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+How Unpredictable Schedules Widen the Gender Pay Gap,"Summary.   
+Many factors contribute to a substantial gender pay gap in the U.S. But what about environments in which compensation structures are seemingly completely objective and bias-free? The authors analyzed seven years of pay data for bus and train operators employed by the MBTA at union-negotiated rates and found that even among people in exactly the same role at the same seniority level, women still took home 11% less than men. They identified three factors driving this persistent earnings gap: unpredictable, unconventional, and uncontrollable schedules. Since women tend to have more inflexible commitments outside of work (such as elder care and childcare), they generally end up taking home less pay when shifts are scheduled last-minute, at non-standard hours, or via a system that doesn’t give workers control over their assignments. Moreover, the authors found that these scheduling practices ended up harming the MBTA’s performance metrics as well, leading to more canceled bus and train routes. To address these issues, the authors recommend that employers should endeavor to offer more-predictable schedules and build in redundancies so that workers aren’t asked to work last-minute or at unconventional times. Despite substantial progress toward pay equity, women in 2022 still earn 17% less than men on average. Many explanations for this gap have been proposed: Women may choose to work in lower-paying occupations; they may have less experience due to having taken time off to have kids or care for elders; they may shy away from negotiation or competition; they may be passed over by managers, perhaps due to conscious or unconscious bias. But what would happen to the earnings gap if we eliminated all of these factors?...",https://hbr.org/2022/07/how-unpredictable-schedules-widen-the-gender-pay-gap,1,"commitment/pledge (Public-Advocacy): [(' commit', ' to ', 'wom(e|a)n'), [5, 15], 1]
+[(' commit', ' to ', ' elder'), [5, 15], 1]
+
+","compensation-(un)equal (Pay-Equity): [(' pay ', 'equit(y|able)', 'wom(e|a)n'), [5, 15], 0]
+[('(-| )pa(id|y)', ' less', ' elder'), [7, 15], 1]
+[('(-| )pa(id|y)', ' less', 'wom(e|a)n'), [7, 15], -1]
+[('(-| )pa(id|y)', ' gap ', 'gender'), [7, 15], -1]
+[('(-| )pa(id|y)', ' less', ' elder'), [7, 15], 0]
+[(' pay ', 'equit(y|able)', ' men '), [5, 15], -1]
+
+"," elder (age)  [compensation-(un)equal], 
+gender (gender-M/F)  [compensation-(un)equal], 
+wom(e|a)n (gender-M/F)  [compensation-(un)equal], 
+ men  (gender-M/F)  [compensation-(un)equal], 
+ elder (age)  [commitment/pledge], 
+wom(e|a)n (gender-M/F)  [commitment/pledge], 
+",,7/1/2022,Harvard Business Review,"how unpredictable schedules widen the gender pay gap summary.   
+many factors contribute to a substantial gender pay gap in the u.s. but what about environments in which compensation structures are seemingly completely objective and bias-free? the authors analyzed seven years of pay data for bus and train operators employed by the mbta at union-negotiated rates and found that even among people in exactly the same role at the same seniority level, women still took home 11% less than men. they identified three factors driving this persistent earnings gap: unpredictable, unconventional, and uncontrollable schedules. since women tend to have more inflexible commitments outside of work (such as elder care and childcare), they generally end up taking home less pay when shifts are scheduled last-minute, at non-standard hours, or via a system that doesn’t give workers control over their assignments. moreover, the authors found that these scheduling practices ended up harming the mbta’s performance metrics as well, leading to more canceled bus and train routes. to address these issues, the authors recommend that employers should endeavor to offer more-predictable schedules and build in redundancies so that workers aren’t asked to work last-minute or at unconventional times. despite substantial progress toward pay equity, women in 2022 still earn 17% less than men on average. many explanations for this gap have been proposed: women may choose to work in lower-paying occupations; they may have less experience due to having taken time off to have kids or care for elders; they may shy away from negotiation or competition; they may be passed over by managers, perhaps due to conscious or unconscious bias. but what would happen to the earnings gap if we eliminated all of these factors?...",0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+“The pressure is on” to close the pay gap in labor market after pandemic exodus of women workers,"The tight labor market and the loss of more than one million women from the workforce during the pandemic makes it critical for companies to focus on pay equity as part of a broader effort to recruit, retain and develop the careers of female workers.
+Changing the way companies talk about pay, conducting pay audits, and driving change from the CEO level all the way though corporate culture are required steps in this process, but there is no one solution. The pandemic’s toll on women in the workforce has been well documented, and starkly, through some big numbers: more than 1.4 million net jobs lost among women, and more than one million who have not returned to the labor force. The pandemic has also intensified what was already a tight job market, and together, these factors should lead companies to focus even more on closing the gender pay gap, and to take a hard look at how their own organizations are doing in terms of pay equity, according to top executives focused on gender equality in careers.
+
+Going beyond regaining the career progress lost by women during the Covid-19 pandemic and making consequential change in closing the pay gap will improve acquisition and retention of talent. There is no silver bullet, but experts focused on closing the gap recently provided some valuable lessons and ideas to the CNBC Workforce Executive Council.
+
+Salary transparency laws are one step, but not a solution 
+In recent years, pay equality headlines have often highlighted states, including Colorado and California, and cities, such as New York City and Cincinnati, passing laws requiring salary transparency. While these guidelines vary from place to place, some allow job seekers the right to request the salary range for a job, others require companies to share the salary range on the job posting.  
+
+This is a positive trend.
+
+“The salary band information can be useful for candidates. It helps them in the negotiation process,” said Cindy Robbins, former president and chief people officer of Salesforce, during a CNBC Workforce Executive Council LinkedIn livestream this week. 
+
+Workers today have little trust in their companies when it comes to pay. A December 2021 survey revealed that only 1 in 4 workers believe their employer is transparent about salaries, and almost half do not believe they are paid fairly compared to people in the same role at other companies. 
+
+“I don’t think that salary transparency is going to solve the pay gap; it’s one step in the right direction,” said Cate Luzio, founder and CEO of Luminary, a career growth and networking organization for women which works with companies including UBS, WW, JPMorgan Chase, Unilever, Verizon, Goldman Sachs, Blackstone and Mastercard. “I think that there are a lot of other opportunities within the structure of the way companies are designed,” she said. 
+
+Comparable compensation is not enough
+To achieve true pay equality, organizations must go beyond comparable compensation.
+
+In hiring, for example, it is typical for recruiters to ask about the current compensation of an applicant. Robbins said that is the wrong question if companies want to help close the pay gap. “What is the compensation you expect?” is a more constructive question, she said. 
+
+To consistently ensure equal pay standards are being met, organizations should implement pay audits. In her time at Salesforce, Robbins advocated for these assessments and that practice has continued at the company. In Salesforce’s recently released annual update on pay equality, it found that 8.5% of its global employees required adjustments. Of those, 92% were based on gender globally, and 8% were based on race or ethnicity in the U.S. The company spent $5.6 million to address “unexplained differences” in pay, and has spent a total of more than $22 million since it began studying the issue in 2015.
+
+Luzio stressed that companies need to invest in women beyond pay. Career-spanning support is essential.  Companies must be “paying them appropriately, providing them opportunities earlier in their career, [and] investing in their skills and development,” Luzio said.
+
+Pay equality can’t be a one-and-done corporate checklist item
+In a recent survey from FlexJobs, a toxic company culture was found to be the No. 1 reason workers resigned. 
+
+Pay equality has a positive impact on company culture, but to make these policies work, Robbins says C-suite level support is critical.
+
+“There’s got to be a path to the CEO … you need them to be supportive of this,” she said.
+
+Companies also need to remember that these types of changes are not “one and done” checklist items, which was important for Salesforce in its implementation of pay audits.
+
+“This is inherited in our culture going forward, and we have to make it a part of the values in our company,” Robbins said about lobbying for pay audits. 
+
+Making pay equality a tenet of an organization’s culture will help in talent acquisition and retention efforts.
+
+“I believe culture is a driver now for all companies in all industries,” Robbins said, and she added that “trust” in an organization prioritizing pay equality is part of that cultural equation. Companies will put themselves in a better position to compete for talent, and retain talent, if they lead rather than follow on this issue, she said.
+
+“The pressure is on,” Luzio said. “Like the tight labor market that we know, people will walk, and, in particular, women, and they will go search where they are valued and get paid what they deserve. Women are part of the economic recovery of this country and the world, so we’ve got to be making these changes,” she said. ",https://www.cnbc.com/2022/04/21/the-pressure-is-on-to-close-gender-pay-gap-in-tight-labor-market-.html,1,"hiring/recruitment (Recruitment/Retention/Promotion-Rates): [('recruit', 'broad', 'female'), [10, 15], 0]
+[('recruit', 'work(er|force)', 'female'), [8, 15], 0]
+
+composition-direct workforce (Recruitment/Retention/Promotion-Rates): [('\\%', 'employee', ' race( |,|.)'), [7, 15], 1]
+[('\\%', 'employee', 'gender'), [7, 15], 1]
+[('\\%', 'employee', 'ethnic'), [7, 15], 1]
+
+invest in people (Workforce-Development): [('invest(s|ed|ment)? in', 'career', 'wom(e|a)n'), [7, 15], 0]
+
+","equity ownership diversity (Management/Board/Owner-Demographics): [(' own', 'equity', 'gender'), [7, 15], 1]
+[(' own', 'equity', 'gender'), [7, 15], 0]
+
+compensation-(un)equal (Pay-Equity): [('(-| )pa(id|y)', ' gap ', 'wom(e|a)n'), [7, 15], -1]
+[(' pay ', 'equit(y|able)', 'wom(e|a)n'), [5, 15], 0]
+[(' pay ', 'equit(y|able)', 'female'), [5, 15], 0]
+[('(-| )pa(id|y)', ' more ', 'gender'), [7, 15], -1]
+[(' pay ', 'equit(y|able)', 'gender'), [5, 15], 1]
+
+skill shortage/gap (Recruitment/Retention/Promotion-Rates): [(' gap ', 'talent', 'wom(e|a)n'), [7, 15], -1]
+
+forced labor (General-Outcome): [('labo(u)?r', ' force', 'wom(e|a)n'), [5, 15], 0]
+
+","gender (gender-M/F)  [equity ownership diversity], 
+female (gender-M/F)  [compensation-(un)equal], 
+gender (gender-M/F)  [compensation-(un)equal], 
+wom(e|a)n (gender-M/F)  [compensation-(un)equal], 
+female (gender-M/F)  [hiring/recruitment], 
+gender (gender-M/F)  [composition-direct workforce], 
+ethnic (ethnicity)  [composition-direct workforce], 
+ race( |,|.) (race)  [composition-direct workforce], 
+wom(e|a)n (gender-M/F)  [skill shortage/gap], 
+wom(e|a)n (gender-M/F)  [invest in people], 
+wom(e|a)n (gender-M/F)  [forced labor], 
+","senior management/executive (CompanyEntity)
+C-suite (CompanyEntity)
+headquarters/office (GlobalLocation)
+equal (Qualities)
+",4/21/2022,CNBC,"“the pressure is on” to close the pay gap in labor market after pandemic exodus of women workers the tight labor market and the loss of more than one million women from the workforce during the pandemic makes it critical for companies to focus on pay equity as part of a broader effort to recruit, retain and develop the careers of female workers.
+changing the way companies talk about pay, conducting pay audits, and driving change from the ceo level all the way though corporate culture are required steps in this process, but there is no one solution. the pandemic’s toll on women in the workforce has been well documented, and starkly, through some big numbers: more than 1.4 million net jobs lost among women, and more than one million who have not returned to the labor force. the pandemic has also intensified what was already a tight job market, and together, these factors should lead companies to focus even more on closing the gender pay gap, and to take a hard look at how their own organizations are doing in terms of pay equity, according to top executives focused on gender equality in careers.
+
+going beyond regaining the career progress lost by women during the covid-19 pandemic and making consequential change in closing the pay gap will improve acquisition and retention of talent. there is no silver bullet, but experts focused on closing the gap recently provided some valuable lessons and ideas to the cnbc workforce executive council.
+
+salary transparency laws are one step, but not a solution 
+in recent years, pay equality headlines have often highlighted states, including colorado and california, and cities, such as new york city and cincinnati, passing laws requiring salary transparency. while these guidelines vary from place to place, some allow job seekers the right to request the salary range for a job, others require companies to share the salary range on the job posting.  
+
+this is a positive trend.
+
+“the salary band information can be useful for candidates. it helps them in the negotiation process,” said cindy robbins, former president and chief people officer of salesforce, during a cnbc workforce executive council linkedin livestream this week. 
+
+workers today have little trust in their companies when it comes to pay. a december 2021 survey revealed that only 1 in 4 workers believe their employer is transparent about salaries, and almost half do not believe they are paid fairly compared to people in the same role at other companies. 
+
+“i don’t think that salary transparency is going to solve the pay gap; it’s one step in the right direction,” said cate luzio, founder and ceo of luminary, a career growth and networking organization for women which works with companies including ubs, ww, jpmorgan chase, unilever, verizon, goldman sachs, blackstone and mastercard. “i think that there are a lot of other opportunities within the structure of the way companies are designed,” she said. 
+
+comparable compensation is not enough
+to achieve true pay equality, organizations must go beyond comparable compensation.
+
+in hiring, for example, it is typical for recruiters to ask about the current compensation of an applicant. robbins said that is the wrong question if companies want to help close the pay gap. “what is the compensation you expect?” is a more constructive question, she said. 
+
+to consistently ensure equal pay standards are being met, organizations should implement pay audits. in her time at salesforce, robbins advocated for these assessments and that practice has continued at the company. in salesforce’s recently released annual update on pay equality, it found that 8.5% of its global employees required adjustments. of those, 92% were based on gender globally, and 8% were based on race or ethnicity in the u.s. the company spent $5.6 million to address “unexplained differences” in pay, and has spent a total of more than $22 million since it began studying the issue in 2015.
+
+luzio stressed that companies need to invest in women beyond pay. career-spanning support is essential.  companies must be “paying them appropriately, providing them opportunities earlier in their career, [and] investing in their skills and development,” luzio said.
+
+pay equality can’t be a one-and-done corporate checklist item
+in a recent survey from flexjobs, a toxic company culture was found to be the no. 1 reason workers resigned. 
+
+pay equality has a positive impact on company culture, but to make these policies work, robbins says c-suite level support is critical.
+
+“there’s got to be a path to the ceo … you need them to be supportive of this,” she said.
+
+companies also need to remember that these types of changes are not “one and done” checklist items, which was important for salesforce in its implementation of pay audits.
+
+“this is inherited in our culture going forward, and we have to make it a part of the values in our company,” robbins said about lobbying for pay audits. 
+
+making pay equality a tenet of an organization’s culture will help in talent acquisition and retention efforts.
+
+“i believe culture is a driver now for all companies in all industries,” robbins said, and she added that “trust” in an organization prioritizing pay equality is part of that cultural equation. companies will put themselves in a better position to compete for talent, and retain talent, if they lead rather than follow on this issue, she said.
+
+“the pressure is on,” luzio said. “like the tight labor market that we know, people will walk, and, in particular, women, and they will go search where they are valued and get paid what they deserve. women are part of the economic recovery of this country and the world, so we’ve got to be making these changes,” she said. ",1,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Amazon must reinstate fired worker who led protest over working conditions, judge rules","An administrative law judge has ordered Amazon to reinstate a fired worker who was an outspoken critic of the company’s workplace safety policies.
+Gerald Bryson helped lead a protest calling for Amazon to enact stronger Covid safety measures at one of the company’s warehouses on Staten Island.
+Bryson worked at a Staten Island warehouse known as JFK8, which voted in Amazon’s first U.S. union earlier this month. Amazon
+ has been ordered to reinstate a worker who was fired after leading a protest over working conditions at a Staten Island warehouse in the early days of the Covid pandemic.
+
+Gerald Bryson, who worked at an Amazon warehouse on New York’s Staten Island known as JFK8, helped lead the protest in April 2020. Bryson got into a dispute with another worker while protesting outside the facility.
+
+In a video live-streamed on Facebook, Bryson and the employee exchanged profanities and were in disagreement about whether the warehouse should be shut down for disinfection. Bryson was later fired for violating Amazon’s vulgar-language policy, while the other employee received a written warning.
+
+Bryson in 2020 filed an unfair labor practice with the National Labor Relations Board, arguing Amazon retaliated against him, and later that year, the NLRB determined the complaint had merit. Last month, the NLRB took up Bryson’s case and agreed that he was fired in retaliation for protesting safety conditions. On Monday, administrative law judge Benjamin Green agreed and said Amazon must offer Bryson his job back, as well as any lost wages and benefits “resulting from his discriminatory discharge.”
+
+Green argued Amazon rushed to judgment and conducted a “skewed investigation” of the altercation that was designed to find reasons to fire Bryson for his participation in the protest. He added that Amazon interviewed selective sources during investigation, some of whom provided false information, including allegations that Bryson called the employee a racial slur during the argument.
+
+Amazon then fired Bryson and not the other employee, even while the company “failed to explain why her conduct was meaningfully different than the conduct of Bryson,” Green said.
+
+Amazon said it disagrees with the judge’s ruling and plans to appeal the decision.
+
+“We strongly disagree with this ruling and are surprised the NLRB would want any employer to condone Mr. Bryson’s behavior,” Amazon spokesperson Kelly Nantel told CNBC in a statement. “Mr. Bryson was fired for bullying, cursing at, and defaming a female co-worker over a bullhorn in front of the workplace. We do not tolerate that type of conduct in our workplace and intend to file an appeal with the NLRB.”
+
+Bryson said in an interview that he feels “exonerated” after learning he’d be able to return to working at Amazon.
+
+“I feel a big relief,” Bryson said. “I am a symbol that you can beat Amazon if you stand up to them and know your rights. I’m a symbol of why we need the ALU [Amazon Labor Union]. This would’ve never happened to me if we had a union in there.”
+
+Since Amazon fired him, Bryson has been involved in organizing JFK8 workers with the Amazon Labor Union, an upstart union made up of current and former company employees.
+
+Earlier this month, workers at JFK8 voted to join ALU, establishing the first union at a U.S. Amazon warehouse. Amazon has sought to challenge the results of the election and has cited the NLRB’s effort to reinstate Bryson as one argument for why the election process was tainted.",https://www.cnbc.com/2022/04/19/amazon-must-reinstate-fired-warehouse-worker-judge-rules.html,1,"termination-employee (Recruitment/Retention/Promotion-Rates): [(' fire(d)? ', 'employee', 'racial'), [8, 15], -1]
+
+","alleg, accus, publicly expose (DEI-Strategy/Governance): [('alleg', 'alleg', 'racial'), [7, 15], -1]
+
+harassment-employee (Worker-Voice/Protection): [('bull(ie|y)', 'work(er|force|( )?place)', 'female'), [10, 15], 0]
+
+","racial (race)  [alleg, accus, publicly expose], 
+racial (race)  [termination-employee], 
+female (gender-M/F)  [harassment-employee], 
+","written (Qualities)
+",4/19/2022,CNBC,"amazon must reinstate fired worker who led protest over working conditions, judge rules an administrative law judge has ordered amazon to reinstate a fired worker who was an outspoken critic of the company’s workplace safety policies.
+gerald bryson helped lead a protest calling for amazon to enact stronger covid safety measures at one of the company’s warehouses on staten island.
+bryson worked at a staten island warehouse known as jfk8, which voted in amazon’s first u.s. union earlier this month. amazon
+ has been ordered to reinstate a worker who was fired after leading a protest over working conditions at a staten island warehouse in the early days of the covid pandemic.
+
+gerald bryson, who worked at an amazon warehouse on new york’s staten island known as jfk8, helped lead the protest in april 2020. bryson got into a dispute with another worker while protesting outside the facility.
+
+in a video live-streamed on facebook, bryson and the employee exchanged profanities and were in disagreement about whether the warehouse should be shut down for disinfection. bryson was later fired for violating amazon’s vulgar-language policy, while the other employee received a written warning.
+
+bryson in 2020 filed an unfair labor practice with the national labor relations board, arguing amazon retaliated against him, and later that year, the nlrb determined the complaint had merit. last month, the nlrb took up bryson’s case and agreed that he was fired in retaliation for protesting safety conditions. on monday, administrative law judge benjamin green agreed and said amazon must offer bryson his job back, as well as any lost wages and benefits “resulting from his discriminatory discharge.”
+
+green argued amazon rushed to judgment and conducted a “skewed investigation” of the altercation that was designed to find reasons to fire bryson for his participation in the protest. he added that amazon interviewed selective sources during investigation, some of whom provided false information, including allegations that bryson called the employee a racial slur during the argument.
+
+amazon then fired bryson and not the other employee, even while the company “failed to explain why her conduct was meaningfully different than the conduct of bryson,” green said.
+
+amazon said it disagrees with the judge’s ruling and plans to appeal the decision.
+
+“we strongly disagree with this ruling and are surprised the nlrb would want any employer to condone mr. bryson’s behavior,” amazon spokesperson kelly nantel told cnbc in a statement. “mr. bryson was fired for bullying, cursing at, and defaming a female co-worker over a bullhorn in front of the workplace. we do not tolerate that type of conduct in our workplace and intend to file an appeal with the nlrb.”
+
+bryson said in an interview that he feels “exonerated” after learning he’d be able to return to working at amazon.
+
+“i feel a big relief,” bryson said. “i am a symbol that you can beat amazon if you stand up to them and know your rights. i’m a symbol of why we need the alu [amazon labor union]. this would’ve never happened to me if we had a union in there.”
+
+since amazon fired him, bryson has been involved in organizing jfk8 workers with the amazon labor union, an upstart union made up of current and former company employees.
+
+earlier this month, workers at jfk8 voted to join alu, establishing the first union at a u.s. amazon warehouse. amazon has sought to challenge the results of the election and has cited the nlrb’s effort to reinstate bryson as one argument for why the election process was tainted.",1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thousands of Migrant Workers Died in Qatar’s Extreme Heat. The World Cup Forced a Reckoning,"...
+In 2007, Qatar banned outdoor work between 11:30 a.m. and 3:00 p.m. during the summer; as a result, construction companies divided the work into early-morning and late-afternoon shifts. Tamang got the morning shift, starting his day at 4 a.m. so he could eat breakfast and prepare his lunch at the company-run worker colony—where up to 70,000 workers employed by various contractors eat, sleep, and spend their time off—before taking a shuttle bus to the work site an hour and a half away. Still, the early start gave him no relief—the temperature was slightly lower, but the humidity surpassed 70% in the morning hours, driving the WBGT even higher...
+The solutions are fairly simple: hydration, rest breaks, and respite from the sun. Trials with sugarcane workers in Nicaragua have shown that when laborers are allowed to take frequent water breaks in the shade, incidents of kidney damage go down dramatically and productivity goes up, according to a 2020 study published in the journal Occupational and Environmental Medicine. “Water. Rest. Shade. It’s not rocket science. It’s not expensive. And it saves lives,” says Jason Glaser, a lead author of the study and the director of La Isla Network, the nonprofit occupational-health organization that pioneered the worker-safety plan.
+
+Three years after Qatar started construction on the World Cup stadiums in 2011, the International Trade Union Confederation published an exposé warning that some 4,000 migrant workers would likely die before the opening match as a result of the country’s exploitative labor practices. The projections were based on a tally of migrant worker deaths in 2012 and 2013 released by the Indian and Nepali embassies, and was supported by similar reports from Amnesty International and Human Rights Watch, which described squalid dormitories, grueling work hours, unpaid wages, and dangerous health-and-safety practices in the country. A February 2021 investigation by the Guardian tallied more than 6,500 worker deaths in Qatar since the awarding of the World Cup, firmly laying the responsibility at the feet of FIFA, the international soccer federation that governs the event.
+...
+Qatar’s Ministry of Labor shut down more than 450 work sites for violations of its new heat-protection policy this summer. It’s a sign of effective monitoring, but the ministry has no enforcement capacity, so violators are often back in operation within days. Nor does the government have the capacity to inspect every work site on a frequent enough basis to ensure worker safety, says Ambet E. Yuson, the general secretary of Building and Wood Worker’s International. The most effective way to enforce the new policy would be to empower workers to stand up for the rights it now guarantees. So far, it’s not looking good. Fifty-six migrant laborers were arrested or deported for protesting unpaid wages in August, says Yuson. “If workers that haven’t been paid a salary for seven months are deported for complaining, what does that say about workers being willing to stand up for the proper implementation of heat protections on their work sites?”
+",https://time.com/6227277/qatar-extreme-heat-world-cup-2022/,1,"compensation-(un)fair (Worker-Security/Precarity): [(' wage(s)? ', 'un(der)?paid', 'migrant'), [7, 15], -1]
+
+","protest-employee (DEI-Strategy/Governance): [('protest', 'work(er|force|( )?place)', 'migrant'), [10, 15], -1]
+
+","migrant (migrant)  [protest-employee], 
+migrant (migrant)  [compensation-(un)fair], 
+","senior management/executive (CompanyEntity)
+migrant worker (GlobalLocation)
+",11/3/2022,TIME Magazine,"thousands of migrant workers died in qatar’s extreme heat. the world cup forced a reckoning ...
+in 2007, qatar banned outdoor work between 11:30 a.m. and 3:00 p.m. during the summer; as a result, construction companies divided the work into early-morning and late-afternoon shifts. tamang got the morning shift, starting his day at 4 a.m. so he could eat breakfast and prepare his lunch at the company-run worker colony—where up to 70,000 workers employed by various contractors eat, sleep, and spend their time off—before taking a shuttle bus to the work site an hour and a half away. still, the early start gave him no relief—the temperature was slightly lower, but the humidity surpassed 70% in the morning hours, driving the wbgt even higher...
+the solutions are fairly simple: hydration, rest breaks, and respite from the sun. trials with sugarcane workers in nicaragua have shown that when laborers are allowed to take frequent water breaks in the shade, incidents of kidney damage go down dramatically and productivity goes up, according to a 2020 study published in the journal occupational and environmental medicine. “water. rest. shade. it’s not rocket science. it’s not expensive. and it saves lives,” says jason glaser, a lead author of the study and the director of la isla network, the nonprofit occupational-health organization that pioneered the worker-safety plan.
+
+three years after qatar started construction on the world cup stadiums in 2011, the international trade union confederation published an exposé warning that some 4,000 migrant workers would likely die before the opening match as a result of the country’s exploitative labor practices. the projections were based on a tally of migrant worker deaths in 2012 and 2013 released by the indian and nepali embassies, and was supported by similar reports from amnesty international and human rights watch, which described squalid dormitories, grueling work hours, unpaid wages, and dangerous health-and-safety practices in the country. a february 2021 investigation by the guardian tallied more than 6,500 worker deaths in qatar since the awarding of the world cup, firmly laying the responsibility at the feet of fifa, the international soccer federation that governs the event.
+...
+qatar’s ministry of labor shut down more than 450 work sites for violations of its new heat-protection policy this summer. it’s a sign of effective monitoring, but the ministry has no enforcement capacity, so violators are often back in operation within days. nor does the government have the capacity to inspect every work site on a frequent enough basis to ensure worker safety, says ambet e. yuson, the general secretary of building and wood worker’s international. the most effective way to enforce the new policy would be to empower workers to stand up for the rights it now guarantees. so far, it’s not looking good. fifty-six migrant laborers were arrested or deported for protesting unpaid wages in august, says yuson. “if workers that haven’t been paid a salary for seven months are deported for complaining, what does that say about workers being willing to stand up for the proper implementation of heat protections on their work sites?”
+",0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The dark side of Japan’s anime industry,"...Working conditions are grim. Animators often fall asleep at their desks. Henry Thurlow, an American animator living and working in Japan, told BuzzFeed News he has been hospitalized multiple times due to illness brought on by exhaustion.
+
+One studio, Madhouse, was recently accused of violating labor code: Employees were working nearly 400 hours per month and went 37 consecutive days without a single day off. A male animator’s 2014 suicide was classified as a work-related incident after investigators found he had worked more than 600 hours in the month leading up to his death.
+
+Part of the reason studios use freelancers is so they don’t need to worry about the labor code. Since freelancers are independent contractors, companies can enforce grueling deadlines while saving money by not providing benefits...According to the Japanese Animation Creators Association, an animator in Japan earns on average ¥1.1 million (~$10,000) per year in their 20s, ¥2.1 million (~$19,000) in their 30s, and a livable but still meager ¥3.5 million (~$31,000) in their 40s and 50s. The poverty line is Japan is ¥2.2 million.
+
+Anime’s structural iniquities stem back to Osamu Tezuka, the creator of Astro Boy and the “god of manga.” Tezuka was responsible for an endless catalog of innovations and precedents in manga, Japanese comics, and anime, onscreen animation. In the early 1960s, with networks unwilling to take the risk on an animated series, Tezuka massively undersold his show to get it on air...Tezuka’s company made up the deficit and the show was a success, but he unknowingly set a dangerous precedent: making it impossible for those who followed in his footsteps to earn a living wage. Diane Wei Lewis points out in a recent study that women, who often worked on animation from home, were especially vulnerable to exploitation and paid even less...Thurlow added that there is an expectation that you quit when you get married. “Because if you’re married, you need to spend some time with your spouse. You can’t work all the time and earn nothing.”...Historically, merchandising created more revenue than TV or movies, but as the popularity of anime has skyrocketed overseas, anime itself makes up a much larger portion of the revenue. Overseas video alone accounted for about half of global revenue in 2017. Yet the stingy budgets and unlivable wages remain.
+
+",https://www.vox.com/culture/2019/7/2/20677237/anime-industry-japan-artists-pay-labor-abuse-neon-genesis-evangelion-netflix,0,,"compensation-(un)equal (Pay-Equity): [('(-| )pa(id|y)', ' less', '(marital status|married)'), [7, 15], 0]
+[('(-| )pa(id|y)', ' less', 'wom(e|a)n'), [7, 15], 0]
+
+investigat (General-Outcome): [('investigat', 'investigat', ' male '), [2, 15], 0]
+
+","(marital status|married) (marital status)  [compensation-(un)equal], 
+wom(e|a)n (gender-M/F)  [compensation-(un)equal], 
+ male  (gender-M/F)  [investigat], 
+","independent (Qualities)
+",7/2/2019,Vox,"the dark side of japan’s anime industry ...working conditions are grim. animators often fall asleep at their desks. henry thurlow, an american animator living and working in japan, told buzzfeed news he has been hospitalized multiple times due to illness brought on by exhaustion.
+
+one studio, madhouse, was recently accused of violating labor code: employees were working nearly 400 hours per month and went 37 consecutive days without a single day off. a male animator’s 2014 suicide was classified as a work-related incident after investigators found he had worked more than 600 hours in the month leading up to his death.
+
+part of the reason studios use freelancers is so they don’t need to worry about the labor code. since freelancers are independent contractors, companies can enforce grueling deadlines while saving money by not providing benefits...according to the japanese animation creators association, an animator in japan earns on average ¥1.1 million (~$10,000) per year in their 20s, ¥2.1 million (~$19,000) in their 30s, and a livable but still meager ¥3.5 million (~$31,000) in their 40s and 50s. the poverty line is japan is ¥2.2 million.
+
+anime’s structural iniquities stem back to osamu tezuka, the creator of astro boy and the “god of manga.” tezuka was responsible for an endless catalog of innovations and precedents in manga, japanese comics, and anime, onscreen animation. in the early 1960s, with networks unwilling to take the risk on an animated series, tezuka massively undersold his show to get it on air...tezuka’s company made up the deficit and the show was a success, but he unknowingly set a dangerous precedent: making it impossible for those who followed in his footsteps to earn a living wage. diane wei lewis points out in a recent study that women, who often worked on animation from home, were especially vulnerable to exploitation and paid even less...thurlow added that there is an expectation that you quit when you get married. “because if you’re married, you need to spend some time with your spouse. you can’t work all the time and earn nothing.”...historically, merchandising created more revenue than tv or movies, but as the popularity of anime has skyrocketed overseas, anime itself makes up a much larger portion of the revenue. overseas video alone accounted for about half of global revenue in 2017. yet the stingy budgets and unlivable wages remain.
+
+",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Women in Gig Work: Olivia Blanchard unpacks the situation of domestic workers globally,"...""Domestic work is one of the older occupations in the world. As populations age across the globe, there is a growing reliance on domestic workers to take care of the elderly and dependent. They fulfil an essential role in our societies. This type of work represents a significant source of global employment – according to the International Labour Organisation (ILO) research, in 2022 domestic work accounts for 2.3% of employment, which means 1 in 25 employees. Domestic workers account for at least 18% of care workers.
+
+In the context of the gig economy, the US based National Domestic Workers Alliance has referred to them as the original gig workers as they have always had multiple jobs (gigs) and multiple employers and at different locations. They have had to deal with some of the issues now faced by delivery riders and others in the gig economy. These issues are, for instance, unpaid working time, wage theft, low pay, a lack of access to social protection benefits such as paid sick time and health insurance, and more."" ""Traditional gender roles have placed women inside the home, taking care of the home and family, and men outside the home, in paid employment. Domestic work and care work has not been valued socially, it has historically been done by women in the family, unpaid, or by other women who are employed to do the work. Racialised and immigrant women are overrepresented in the sector. 
+
+For example, in Spain, women who were born abroad make up over 40% of the domestic workers workforce, in contrast to the 11% of foreign-born workers across the overall workforce. Many of these women come from Latin America and have left the care of their own children in the hands of other female relatives back home, a phenomenon called the “global care chains” (women migrate to take care of other women's elderly relatives or children when they go into paid employment, leaving behind the care of their own children and elderly parents in the hands of other female relatives).
+
+In the United States, black and Hispanic women are overrepresented in the domestic workforce. In 2019, the year just before the Covid-19 pandemic hit, almost 60% of domestic workers were black, Hispanic or Asian American/Pacific Islander (AAPI). Meanwhile these same groups represent just 36% of the rest of the workforce. The same happens in other regions, for example, in Latin America where afro descendants and indigenous women are also overrepresented in the domestic work workforce.
+
+Race, class and gender dynamics inform the makeup of the workforce, and also the working conditions and the employer employee relationships and power dynamics. Many domestic workers today still work in the informal economy (paid under the table) and are subjected to abusive working conditions and exploitation.""...A recent study in Argentina found that female gig workers working as riders and drivers in Buenos Aires work fewer hours and earn less income than men. The research shows how women are less likely to own a motorcycle compared to men, they are less likely to work in the evenings or weekends due to their care responsibilities and they are more likely to turn down a trip or delivery request when they perceive the area is dangerous. As a result they see their ratings affected as platforms, which don't take into account any of these factors, assign higher scores to those who have lots of availability day or night, are able to travel faster and have low service rejection rates.
+
+Precisely for this reason we need to bring a gender perspective into our research on the gig economy. We need more data on how many women (and men) work in the gig economy, on their wages and working conditions. We need to understand how women and men's experiences differ and understand the ways in which platform operational models and algorithmic management might be compounding the structural inequalities found in the traditional labour market offline. ",https://wageindicator.org/about/news/2022/women-in-gig-work-olivia-blanchard-unpacks-the-situation-of-domestic-workers-globally,1,"composition-direct workforce (Recruitment/Retention/Promotion-Rates): [('\\%', 'work(er|force)', 'wom(e|a)n'), [7, 15], 0]
+[('ma(d|k)e( |-)?up', 'work(er|force)', 'gender'), [7, 15], 0]
+[('ma(d|k)e( |-)?up', 'work(er|force)', 'wom(e|a)n'), [7, 15], 0]
+[('\\%', 'work(er|force)', '(black|african american)'), [7, 15], 0]
+[('\\%', 'work(er|force)', 'hispanic'), [7, 15], 0]
+[('\\%', 'work(er|force)', 'asian'), [7, 15], 0]
+
+alternative/casual/gig work (Worker-Security/Precarity): [('work', ' gig( |-)', 'wom(e|a)n'), [5, 15], 0]
+[('work', ' gig( |-)', 'female'), [5, 15], 0]
+
+","compensation-(un)equal (Pay-Equity): [(' wage(s)? ', 'under', 'wom(e|a)n'), [7, 15], 0]
+
+unsafe conditions (Worker-Voice/Protection): [('conditions', 'work', 'abus(e|ive)', 'female'), [10, 10, 10, 15], -1]
+
+","wom(e|a)n (gender-M/F)  [compensation-(un)equal], 
+gender (gender-M/F)  [composition-direct workforce], 
+(black|african american) (race)  [composition-direct workforce], 
+asian (race)  [composition-direct workforce], 
+wom(e|a)n (gender-M/F)  [composition-direct workforce], 
+hispanic (ethnicity)  [composition-direct workforce], 
+female (gender-M/F)  [alternative/casual/gig work], 
+wom(e|a)n (gender-M/F)  [alternative/casual/gig work], 
+female (gender-M/F)  [unsafe conditions], 
+","migrant worker (GlobalLocation)
+",10/12/2022,WageIndicator,"women in gig work: olivia blanchard unpacks the situation of domestic workers globally ...""domestic work is one of the older occupations in the world. as populations age across the globe, there is a growing reliance on domestic workers to take care of the elderly and dependent. they fulfil an essential role in our societies. this type of work represents a significant source of global employment – according to the international labour organisation (ilo) research, in 2022 domestic work accounts for 2.3% of employment, which means 1 in 25 employees. domestic workers account for at least 18% of care workers.
+
+in the context of the gig economy, the us based national domestic workers alliance has referred to them as the original gig workers as they have always had multiple jobs (gigs) and multiple employers and at different locations. they have had to deal with some of the issues now faced by delivery riders and others in the gig economy. these issues are, for instance, unpaid working time, wage theft, low pay, a lack of access to social protection benefits such as paid sick time and health insurance, and more."" ""traditional gender roles have placed women inside the home, taking care of the home and family, and men outside the home, in paid employment. domestic work and care work has not been valued socially, it has historically been done by women in the family, unpaid, or by other women who are employed to do the work. racialised and immigrant women are overrepresented in the sector. 
+
+for example, in spain, women who were born abroad make up over 40% of the domestic workers workforce, in contrast to the 11% of foreign-born workers across the overall workforce. many of these women come from latin america and have left the care of their own children in the hands of other female relatives back home, a phenomenon called the “global care chains” (women migrate to take care of other women's elderly relatives or children when they go into paid employment, leaving behind the care of their own children and elderly parents in the hands of other female relatives).
+
+in the united states, black and hispanic women are overrepresented in the domestic workforce. in 2019, the year just before the covid-19 pandemic hit, almost 60% of domestic workers were black, hispanic or asian american/pacific islander (aapi). meanwhile these same groups represent just 36% of the rest of the workforce. the same happens in other regions, for example, in latin america where afro descendants and indigenous women are also overrepresented in the domestic work workforce.
+
+race, class and gender dynamics inform the makeup of the workforce, and also the working conditions and the employer employee relationships and power dynamics. many domestic workers today still work in the informal economy (paid under the table) and are subjected to abusive working conditions and exploitation.""...a recent study in argentina found that female gig workers working as riders and drivers in buenos aires work fewer hours and earn less income than men. the research shows how women are less likely to own a motorcycle compared to men, they are less likely to work in the evenings or weekends due to their care responsibilities and they are more likely to turn down a trip or delivery request when they perceive the area is dangerous. as a result they see their ratings affected as platforms, which don't take into account any of these factors, assign higher scores to those who have lots of availability day or night, are able to travel faster and have low service rejection rates.
+
+precisely for this reason we need to bring a gender perspective into our research on the gig economy. we need more data on how many women (and men) work in the gig economy, on their wages and working conditions. we need to understand how women and men's experiences differ and understand the ways in which platform operational models and algorithmic management might be compounding the structural inequalities found in the traditional labour market offline. ",1,1,0,0,0,1,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
