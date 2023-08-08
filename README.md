@@ -16,7 +16,9 @@ The columns of each file are color-coded according to this code:
 - Gray: Individual indicator columns (output columns). These columns indicate if a specific term or keyword has appeared in a text and can be toggled in the same manner as the yellow summary indicator columns.
 
 ## About Pipeline_Demo
-The pipeline demo code is available in .ipynb format. Download to try with the provided 'demo_example_input.csv.' Note that the output from the pipeline will have a different name than the provided example output CSV so that outputs can be distinguished between different input data files.
+The pipeline demo code is available in .ipynb notebook format. Download the notebook to try with the provided 'demo_example_input.csv.' Note that the output from the pipeline will have a different name than the provided example output CSV. 
+
+The folder also includes two CSV files that list the practice, outcome, and DEI terms that our pipeline is built to identify and categorize the terms by topic and/or theme. The keywords used to identify each term and practice and outcome terms' patterns and context windows are also listed. These two CSVs must also be downloaded and added to the working directory housing the demo notebook for a demo run.
 
 ## About Term_Dictionaries
 Each file lists the terms (practice, outcome, DEI, and context) that our pipeline is built to identify and categorizes them by topic and/or theme. The keywords used to identify each term and practice and outcome terms' patterns and context windows are also listed.
