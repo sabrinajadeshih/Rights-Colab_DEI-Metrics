@@ -1,9 +1,6 @@
 # Harnessing Big Data to Identify Financially Material DEI Metrics
 
 ## Description
-The pipeline demo code is available in .ipynb notebook format. Download the notebook to try with the provided 'demo_example_input.csv.' Note that the output from the pipeline will have a different name than the provided example output CSV. 
-
-The folder also includes two CSVs that list the practice, outcome, and DEI terms that our pipeline is built to identify and categorize the terms by topic and/or theme. The keywords used to identify each term and practice and outcome terms' patterns and context windows are also listed. These two CSVs must also be downloaded and added to the working directory housing the demo notebook for a demo run.
 This repository is composed of three folders of resources: 
 1) Dataset_Results: An Excel file of simplified pipeline results for each dataset used in our analysis 
 2) Pipeline_Demo: A Python notebook copy of our pipeline code with a sample input file, sample output file, and other supporting files.
