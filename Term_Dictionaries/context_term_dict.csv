@@ -1,0 +1,38 @@
+Context Term Type,Term,Keyword Pattern
+INDICATOR-EmploymentType,full-time employment,"['full( |-)?time(.*)(employ|work|labo(u)?r)','(employ|work|labo(u)?r)(.*)full( |-)?time']"
+INDICATOR-EmploymentType,part-time employment,"['part( |-)?time(.*)(employ|work|labo(u)?r)','(employ|work|labo(u)?r)(.*)part( |-)?time']"
+INDICATOR-EmploymentType,permanent employment,"['permanent(.*)(employ|work|labo(u)?r)','(employ|work|labo(u)?r)(.*)permanent']"
+INDICATOR-EmploymentType,temporary employment,"['temporary(.*)(employ|work|labo(u)?r)','(employ|work|labo(u)?r)(.*)temporary']"
+INDICATOR-EmploymentType,zero-hour employment,"['zero( |-)?hour(.*)(employ|work|labo(u)?r)','(employ|work|labo(u)?r)(.*)zero( |-)?hour']"
+INDICATOR-EmploymentType,non-guaranteed hours employees,"['non( |-)?guarantee(.*)(employ|work|labo(u)?r)','(employ|work|labo(u)?r)(.*)non( |-)?guarantee']"
+INDICATOR-HumanCapital,human capital,['human capital']
+INDICATOR-HumanCapital,invest in people,"['invest in people','invest in a(n)? (person|individual)']"
+INDICATOR-CompanyEntity,senior management/executive,"['president', ' vp ', 'c-level', 'partner( |-)level', '(firm|name|managing|principal) partner', 'director', 'chair(man|woman|person)', 'chair of', 'principals', '(senior|top) (leader|manag)', 'executive']"
+INDICATOR-CompanyEntity,board of directors/executive board,"['board of (director|executive)', '(director|executive) board']"
+INDICATOR-CompanyEntity,nonexecutive/supervisory board,"['board of (supervisor|non( |-)?executive)', '(supervisory|non( |-)?executive) board']"
+INDICATOR-CompanyEntity,C-suite,"['c-suite', 'c-level', ' ceo ', ' cto ', ' cfo ' , ' coo ', ' cio ']"
+INDICATOR-CompanyEntity,investment committee/team,['investment (committee|team)']
+INDICATOR-CompanyEntity,stockholder/shareholder,['(share|stock)holder']
+INDICATOR-CompanyEntity,professionals,"['associates', 'analysts', 'professionals', 'entrepreneurs in residence']"
+INDICATOR-CompanyEntity,direct operations workforce,"['direct operations (employ|work|labo(u)?r)', 'floor(.*)(employ|work|labo(u)?r)', '(employ|work|labo(u)?r)(.*)floor']"
+INDICATOR-GlobalLocation,headquarters/office,"['headquarters', 'office']"
+INDICATOR-GlobalLocation,factory,"['factor(ies|y)','manufactur']"
+INDICATOR-GlobalLocation,migrant worker,"['migra(n)?t(.*)(employ|work|labo(u)?r)', '(employ|work|labo(u)?r)(.*)migra(n)?t']"
+INDICATOR-GlobalLocation,mobile worker,"['mobile(.*)(employ|work|labo(u)?r)', '(employ|work|labo(u)?r)(.*)mobile']"
+INDICATOR-SupplyChain,supply chain,"['supply chain', 'supplier']"
+INDICATOR-SupplyChain,value chain,['value chain']
+INDICATOR-Qualities,confidential,['confidential']
+INDICATOR-Qualities,mandatory,['mandatory']
+INDICATOR-Qualities,regular,['regular']
+INDICATOR-Qualities,third-party,['third( |-)party']
+INDICATOR-Qualities,equal,['equal']
+INDICATOR-Qualities,anonymous,['anonymous']
+INDICATOR-Qualities,formal,['formal']
+INDICATOR-Qualities,written,['written']
+INDICATOR-Qualities,independent,['independent']
+INDICATOR-Qualities,-conscious/friendly/focused,"['-conscious', '-friendly', '-focus']"
+INDICATOR-Qualities,-balanced/neutral/agnostic,"['-balance', '-neutral', 'agnostic']"
+INDICATOR-COVID-19,coronavirus/covid,"['covid', 'coronavirus']"
+INDICATOR-BLM,black lives matter,"['black lives matter', 'blm', 'george floyd']"
+INDICATOR-BLM,blm-police reform,"['police (reform|violence)', 'defund the police', ' acab ']"
+INDICATOR-BLM,criminal justice,['criminal justice']
